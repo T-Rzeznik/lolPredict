@@ -4,8 +4,8 @@ api_key = os.getenv('RIOT_GAMES_API_KEY')
 if api_key is None:
     raise ValueError("No API key found. Please set the API_KEY environment variable.")
 
-SUMMONER_NAMES = ['MiddleFoot#NA1']  #Up to 8 summoners   NAME#TAG
-REGION = 'AMERICAS'  # Change to the appropriate region
+SUMMONER_NAMES = ['']  #Up to 8 summoners   NAME#TAG
+REGION = 'AMERICAS'  
 
 def get_summoner_data(game_name, tag_line):
     url = f'https://{REGION}.api.riotgames.com/riot/account/v1/accounts/by-riot-id/{game_name}/{tag_line}'
@@ -50,7 +50,19 @@ def extract_jungler_data(match_id):
         json.dump(match_data, f, indent=4)
 
 
+    # Extract game type or queue ID
+    game_type = match_data['info']['gameType']  
+    queue_id = match_data['info']['queueId']  
 
+    #Map queue ID to human-readable match type
+    queue_mapping = {
+        420: 'Ranked Solo/Duo',
+        440: 'Ranked Flex',
+        400: 'Normal Draft',
+        430: 'Normal Blind',
+    }
+    match_type = queue_mapping.get(queue_id, 'Other')  # Default to 'Other' if the queue ID is not in the mapping
+ 
     jungle_data = []
 
     for participant in match_data['info']['participants']:
@@ -66,7 +78,7 @@ def extract_jungler_data(match_id):
             items = []
 
 
-            for frame in timeline_data['info']['frames']:
+            for frame in timeline_data['info']['frames']: #first 4 minute features
                 for event in frame['events']:
                     if event['timestamp'] <= 240000:
                         if event.get('type') == 'CHAMPION_KILL':
@@ -104,7 +116,8 @@ def extract_jungler_data(match_id):
                 'first_item': first_item,
                 'level_at_first_blood': level_at_first_blood,
                 'firstBlood': firstBlood,
-                'gold_per_minute': gold_per_minute
+                'gold_per_minute': gold_per_minute,
+                'game_type': match_type
             })
     return jungle_data
 
