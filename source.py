@@ -4,7 +4,7 @@ api_key = os.getenv('RIOT_GAMES_API_KEY')
 if api_key is None:
     raise ValueError("No API key found. Please set the API_KEY environment variable.")
 
-SUMMONER_NAMES = []  #Up to 4 summoners   NAME#TAG
+SUMMONER_NAMES = ['MiddleFoot#NA1']  #Up to 4 summoners   NAME#TAG
 REGION = 'AMERICAS'  
 
 def get_summoner_data(game_name, tag_line):
@@ -99,11 +99,16 @@ def extract_jungler_data(match_id):
             summoner_spells = participant['summoner1Id'], participant['summoner2Id']
             champion = participant['championName']
             
-            first_item = items[0] if items else 'No Item'
+            item_mapping = {
+                1101: 'Red',
+                1102: 'Blue',
+                1103: 'Green'
+            }
+            first_item = item_mapping.get(items[0], 'No Item') if items else 'No Item'
             
             level_at_first_blood = participant['champLevel'] if participant['firstBloodKill'] else 'No'
-
             firstBlood = participant['firstBloodKill']
+            
             jungle_data.append({
                 'kills_first_4_min': kills_total_first_4_min,
                 'assists_first_4_min': assists_first_4_min,
