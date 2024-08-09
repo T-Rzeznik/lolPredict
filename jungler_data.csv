@@ -1,17 +1,1 @@
 kills_first_4_min,assists_first_4_min,camps_cleared_first_4_min,gold_earned_first_4_min,win,kills_details,summoner_spells,champion,first_item,level_at_first_blood,firstBlood,gold_per_minute,game_type
-2,0,20,1822,True,"[187047, 190320]","(11, 4)",Evelynn,Red,No,False,455.5,Normal Draft
-0,1,16,1287,False,[],"(11, 14)",Shaco,Blue,No,False,321.75,Normal Draft
-0,0,27,1402,True,[],"(4, 11)",Shyvana,Red,No,False,350.5,Normal Draft
-1,0,24,1636,False,[212421],"(11, 4)",Volibear,Blue,No,False,409.0,Normal Draft
-1,0,21,1526,False,[181963],"(11, 6)",Taric,Green,No,False,381.5,Normal Draft
-0,0,15,1085,True,[],"(14, 11)",Shaco,Blue,No,False,271.25,Normal Draft
-2,3,12,2001,True,"[64198, 132832]","(4, 11)",XinZhao,Blue,9,True,500.25,Normal Draft
-0,0,20,1227,False,[],"(4, 11)",Udyr,Blue,No,False,306.75,Normal Draft
-1,0,16,1520,False,[231423],"(4, 11)",Shyvana,Red,No,False,380.0,Ranked Solo/Duo
-0,0,20,1230,True,[],"(11, 6)",Mordekaiser,Blue,No,False,307.5,Ranked Solo/Duo
-0,0,12,1060,True,[],"(11, 4)",RekSai,Red,No,False,265.0,Normal Draft
-0,1,24,1515,False,[],"(11, 4)",Morgana,Red,No,False,378.75,Normal Draft
-0,1,20,1364,False,[],"(4, 11)",Kayn,Blue,No,False,341.0,Ranked Solo/Duo
-0,1,24,1340,True,[],"(11, 4)",Zed,Red,No,False,335.0,Ranked Solo/Duo
-0,1,12,1243,True,[],"(6, 11)",Chogath,Blue,No,False,310.75,Ranked Solo/Duo
-1,0,20,1598,False,[209098],"(11, 4)",Graves,No Item,No,False,399.5,Ranked Solo/Duo

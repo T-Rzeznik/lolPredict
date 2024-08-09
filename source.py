@@ -4,7 +4,7 @@ api_key = os.getenv('RIOT_GAMES_API_KEY')
 if api_key is None:
     raise ValueError("No API key found. Please set the API_KEY environment variable.")
 
-SUMMONER_NAMES = ['MiddleFoot#NA1']  #Up to 4 summoners   NAME#TAG
+SUMMONER_NAMES = []  #Up to 4 summoners   NAME#TAG
 REGION = 'AMERICAS'  
 
 def get_summoner_data(game_name, tag_line):
@@ -40,15 +40,13 @@ def extract_jungler_data(match_id):
     timeline_url = f'https://{REGION}.api.riotgames.com/lol/match/v5/matches/{match_id}/timeline'
     timeline_response = requests.get(timeline_url, headers={'X-Riot-Token': api_key})
     timeline_data = timeline_response.json()  # Get timeline data
-    
+
     import json 
     with open('lol.json', 'w') as f:
         json.dump(timeline_data, f, indent=4)
 
-   
     with open('match.json', 'w') as f:
         json.dump(match_data, f, indent=4)
-
 
     # Extract game type or queue ID
     game_type = match_data['info']['gameType']  
@@ -76,11 +74,18 @@ def extract_jungler_data(match_id):
             kills_details = []
             assist_details = []
             items = []
+            level_at_first_blood = '0'
+            first_blood = False
 
-
-            for frame in timeline_data['info']['frames']: #first 4 minute features
+            for frame in timeline_data['info']['frames']: #Loop Through Every event in the game
                 for event in frame['events']:
-                    if event['timestamp'] <= 240000:
+                    #Check For first Blood
+                    if event.get('type') == 'CHAMPION_SPECIAL_KILL' and event['killType'] == 'KILL_FIRST_BLOOD':
+                        level_at_first_blood = frame['participantFrames'][str(participant_id)]['level']
+                        if participant_id == event['killerId']:
+                            first_blood = True
+                        
+                    if event['timestamp'] <= 240000: #First 4 minute stats
                         if event.get('type') == 'CHAMPION_KILL':
                             if event.get('killerId') == participant_id:
                                 kills_total_first_4_min += 1
@@ -94,6 +99,7 @@ def extract_jungler_data(match_id):
 
                         jungler_monsters_killed = max(frame['participantFrames'][str(participant_id)].get('jungleMinionsKilled', 0), jungler_monsters_killed)                                        
                         gold_earned_first_4_min = max(frame['participantFrames'][str(participant_id)].get('totalGold', 0), gold_earned_first_4_min)
+
             gold_per_minute = gold_earned_first_4_min / 4
                                                       
             summoner_spells = participant['summoner1Id'], participant['summoner2Id']
@@ -106,9 +112,6 @@ def extract_jungler_data(match_id):
             }
             first_item = item_mapping.get(items[0], 'No Item') if items else 'No Item'
             
-            level_at_first_blood = participant['champLevel'] if participant['firstBloodKill'] else 'No'
-            firstBlood = participant['firstBloodKill']
-            
             jungle_data.append({
                 'kills_first_4_min': kills_total_first_4_min,
                 'assists_first_4_min': assists_first_4_min,
@@ -120,7 +123,7 @@ def extract_jungler_data(match_id):
                 'champion': champion,  
                 'first_item': first_item,
                 'level_at_first_blood': level_at_first_blood,
-                'firstBlood': firstBlood,
+                'firstBlood': first_blood,
                 'gold_per_minute': gold_per_minute,
                 'game_type': match_type
             })
