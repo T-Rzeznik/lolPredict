@@ -1095,3 +1095,1023 @@ kills_first_4_min,assists_first_4_min,camps_cleared_first_4_min,gold_earned_firs
 0,0,28,1395,True,[],"(4, 11)",Nocturne,Green,1,False,348.75,Ranked Solo/Duo
 1,0,24,1635,False,[225840],"(11, 4)",Khazix,Blue,4,False,408.75,Ranked Solo/Duo
 0,0,20,1235,True,[],"(4, 11)",Skarner,Green,3,False,308.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",MasterYi,Blue,4,False,328.75,Normal Draft
+0,0,28,1395,True,[],"(6, 11)",Garen,Blue,4,False,348.75,Normal Draft
+0,0,16,1145,True,[],"(14, 11)",Shaco,Blue,1,False,286.25,Ranked Solo/Duo
+2,1,24,2112,False,"[49299, 201982]","(11, 4)",Belveth,Green,1,True,528.0,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Sylas,Red,4,False,333.75,Ranked Solo/Duo
+1,0,24,1765,False,[232367],"(11, 4)",Nidalee,Red,4,True,441.25,Ranked Solo/Duo
+1,0,28,1715,True,[233527],"(11, 4)",Lillia,Blue,4,False,428.75,Ranked Solo/Duo
+1,0,24,1644,False,[222412],"(4, 11)",Udyr,Blue,4,False,411.0,Ranked Solo/Duo
+0,0,16,1126,False,[],"(11, 4)",Graves,Red,2,False,281.5,Ranked Solo/Duo
+0,0,28,1400,True,[],"(4, 11)",Briar,Green,2,False,350.0,Ranked Solo/Duo
+1,0,20,1656,True,[186803],"(4, 11)",Taliyah,Red,3,True,414.0,Ranked Solo/Duo
+2,0,20,1867,False,"[197590, 202843]","(4, 11)",Volibear,Blue,3,False,466.75,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Zyra,Red,3,False,328.75,Ranked Solo/Duo
+1,0,20,1580,False,[187336],"(4, 11)",Khazix,Red,3,False,395.0,Ranked Solo/Duo
+1,0,24,1701,True,[236198],"(11, 4)",Taliyah,Red,2,False,425.25,Ranked Solo/Duo
+1,1,24,1730,False,[238949],"(11, 4)",Viego,Blue,2,False,432.5,Ranked Solo/Duo
+0,0,0,500,True,[],"(11, 4)",Shyvana,Blue,0,False,125.0,Ranked Solo/Duo
+0,0,4,590,False,[],"(11, 4)",JarvanIV,Red,0,False,147.5,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Viego,Green,3,False,333.75,Ranked Solo/Duo
+0,0,19,1211,True,[],"(4, 11)",Evelynn,Blue,3,False,302.75,Ranked Solo/Duo
+0,0,28,1392,True,[],"(11, 4)",Zac,No Item,3,False,348.0,Ranked Solo/Duo
+1,0,24,1635,False,[237058],"(11, 4)",XinZhao,Blue,3,False,408.75,Ranked Solo/Duo
+0,1,16,1303,True,[],"(11, 4)",Kennen,Green,1,False,325.75,Ranked Solo/Duo
+0,1,20,1330,False,[],"(11, 6)",Tryndamere,Red,1,False,332.5,Ranked Solo/Duo
+0,0,23,1311,False,[],"(4, 11)",Graves,Blue,3,False,327.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Nocturne,Red,3,False,348.75,Ranked Solo/Duo
+0,0,20,1216,False,[],"(4, 11)",Graves,Blue,3,False,304.0,Ranked Solo/Duo
+0,0,16,1165,True,[],"(4, 11)",Nocturne,Red,3,False,291.25,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Amumu,Red,4,False,328.75,Ranked Solo/Duo
+0,1,24,1460,False,[],"(11, 4)",Brand,Red,4,False,365.0,Ranked Solo/Duo
+1,0,28,1870,False,[35644],"(4, 11)",Kindred,Red,1,True,467.5,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Brand,Red,1,False,328.75,Ranked Solo/Duo
+0,0,22,1263,False,[],"(4, 11)",Zed,Red,3,False,315.75,Ranked Solo/Duo
+2,0,21,2002,True,"[197287, 200427]","(4, 11)",Khazix,Blue,3,False,500.5,Ranked Solo/Duo
+0,0,20,1225,True,[],"(4, 11)",Nocturne,Red,3,False,306.25,Ranked Solo/Duo
+1,1,16,1805,False,[169284],"(6, 11)",Rammus,Green,3,True,451.25,Ranked Solo/Duo
+2,1,24,2080,True,"[208469, 228278]","(4, 11)",Udyr,Blue,1,False,520.0,Ranked Solo/Duo
+0,1,12,1259,False,[],"(4, 11)",LeeSin,Blue,1,False,314.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Gragas,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 6)",Hecarim,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,21,1292,False,[],"(11, 4)",Kayn,Blue,3,False,323.0,Ranked Solo/Duo
+1,0,22,1639,True,[167865],"(4, 11)",Diana,Red,3,False,409.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Rengar,Blue,4,False,328.75,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Vi,Blue,4,False,333.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Lillia,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Volibear,Green,4,False,348.75,Ranked Solo/Duo
+0,1,24,1485,True,[],"(11, 6)",Hecarim,Blue,4,False,371.25,Ranked Solo/Duo
+1,0,16,1546,False,[187068],"(11, 4)",Nunu,Red,3,True,386.5,Ranked Solo/Duo
+1,0,24,1635,False,[232285],"(4, 11)",Warwick,Blue,3,False,408.75,Ranked Solo/Duo
+1,0,24,1638,True,[229462],"(4, 11)",Viego,Blue,3,False,409.5,Ranked Solo/Duo
+0,0,18,1197,False,[],"(4, 11)",LeeSin,Red,4,False,299.25,Normal Draft
+0,0,24,1340,True,[],"(11, 6)",Yorick,Red,4,False,335.0,Normal Draft
+0,0,28,1395,True,[],"(4, 11)",Karthus,Red,4,False,348.75,Normal Draft
+0,0,20,1211,False,[],"(11, 4)",Teemo,Red,3,False,302.75,Normal Draft
+0,1,13,1275,True,[],"(4, 11)",Diana,Red,2,False,318.75,Ranked Solo/Duo
+0,0,16,1165,False,[],"(4, 11)",Lillia,Blue,2,False,291.25,Ranked Solo/Duo
+0,0,16,1145,False,[],"(11, 4)",Nocturne,Red,3,False,286.25,Ranked Solo/Duo
+1,0,16,1495,True,[227065],"(4, 11)",Briar,Green,3,False,373.75,Ranked Solo/Duo
+0,0,16,1150,False,[],"(6, 11)",Gwen,Blue,3,False,287.5,Ranked Solo/Duo
+0,0,23,1316,True,[],"(11, 4)",Shyvana,Red,4,False,329.0,Ranked Solo/Duo
+0,0,20,1220,True,[],"(4, 11)",Lillia,Blue,3,False,305.0,Ranked Solo/Duo
+0,0,24,1340,False,[],"(11, 6)",Hecarim,Blue,3,False,335.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 6)",Hecarim,Blue,5,False,348.75,Ranked Solo/Duo
+0,0,20,1211,False,[],"(11, 4)",Khazix,Blue,3,False,302.75,Ranked Solo/Duo
+0,1,12,1105,True,[],"(4, 11)",Kindred,Red,1,False,276.25,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Shyvana,Red,1,False,333.75,Ranked Solo/Duo
+0,1,20,1356,True,[],"(11, 4)",Ivern,Blue,3,False,339.0,Ranked Solo/Duo
+2,0,20,2075,False,"[220235, 237169]","(11, 4)",Graves,Red,3,False,518.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(6, 11)",Hecarim,Blue,1,False,328.75,Ranked Solo/Duo
+0,3,24,1409,True,[],"(11, 4)",Elise,Red,1,False,352.25,Ranked Solo/Duo
+0,2,20,1304,False,[],"(4, 11)",Brand,Red,2,False,326.0,Ranked Solo/Duo
+1,0,16,1528,True,[208705],"(4, 11)",Khazix,Blue,2,False,382.0,Ranked Solo/Duo
+1,0,12,1534,False,[187188],"(4, 11)",Briar,Green,1,False,383.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Lillia,Red,2,False,348.75,Ranked Solo/Duo
+0,0,21,1240,False,[],"(4, 11)",Khazix,Blue,2,False,310.0,Ranked Solo/Duo
+0,1,16,1184,True,[],"(11, 4)",Kindred,Red,2,False,296.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Nidalee,Red,3,False,348.75,Ranked Solo/Duo
+1,0,28,1683,True,[234251],"(6, 11)",Hecarim,Blue,3,False,420.75,Ranked Solo/Duo
+0,0,28,1392,True,[],"(4, 11)",LeeSin,Red,3,False,348.0,Ranked Solo/Duo
+1,0,28,1712,False,[236500],"(4, 11)",Lillia,Blue,3,False,428.0,Ranked Solo/Duo
+0,0,24,1340,False,[],"(11, 4)",Gwen,Blue,3,False,335.0,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Brand,Blue,2,False,333.75,Ranked Solo/Duo
+0,0,28,1415,False,[],"(4, 11)",MasterYi,Blue,4,False,353.75,Ranked Solo/Duo
+0,1,24,1504,True,[],"(6, 11)",Hecarim,Blue,4,False,376.0,Ranked Solo/Duo
+1,0,28,1919,True,[238090],"(4, 11)",Khazix,Blue,4,True,479.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(6, 11)",Hecarim,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",MasterYi,Green,4,False,348.75,Ranked Solo/Duo
+1,0,28,1815,True,[232215],"(11, 4)",Amumu,Green,4,True,453.75,Ranked Solo/Duo
+0,1,24,1533,True,[],"(11, 4)",Viego,Blue,1,False,383.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Lillia,Blue,1,False,348.75,Ranked Solo/Duo
+0,0,12,1050,False,[],"(11, 4)",Gragas,Blue,1,False,262.5,Normal Draft
+0,2,24,1405,True,[],"(4, 11)",Lillia,Blue,1,False,351.25,Normal Draft
+1,2,28,1922,True,[57624],"(11, 4)",Udyr,Blue,1,False,480.5,Normal Draft
+0,0,23,1301,False,[],"(4, 11)",Lillia,Blue,1,False,325.25,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Rengar,Blue,5,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(4, 11)",Maokai,Blue,5,False,333.75,Ranked Solo/Duo
+0,0,24,1325,False,[],"(11, 4)",Viego,Red,2,False,331.25,Ranked Solo/Duo
+0,0,27,1381,True,[],"(6, 11)",Shyvana,Red,2,False,345.25,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Belveth,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Nocturne,Red,5,False,333.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(11, 4)",Lillia,Blue,5,False,328.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+2,0,23,2066,False,"[221089, 228705]","(4, 11)",Lillia,Blue,4,True,516.5,Ranked Solo/Duo
+0,1,20,1436,False,[],"(4, 11)",Nidalee,Blue,3,False,359.0,Normal Draft
+0,0,28,1410,True,[],"(11, 6)",Mordekaiser,Blue,3,False,352.5,Normal Draft
+0,0,24,1315,False,[],"(4, 11)",Volibear,Blue,3,False,328.75,Normal Draft
+0,0,28,1392,True,[],"(4, 11)",Khazix,Blue,3,False,348.0,Normal Draft
+0,0,24,1340,True,[],"(11, 4)",Aurora,Blue,4,False,335.0,Ranked Solo/Duo
+0,0,20,1196,False,[],"(4, 11)",Ekko,Blue,4,True,299.0,Ranked Solo/Duo
+1,1,26,1815,True,[202283],"(4, 11)",Ivern,Blue,3,False,453.75,Ranked Solo/Duo
+0,0,16,1145,False,[],"(4, 11)",Ekko,Blue,3,False,286.25,Ranked Solo/Duo
+0,0,24,1335,True,[],"(11, 4)",Rengar,Red,3,False,333.75,Other
+0,0,24,1335,False,[],"(4, 11)",Kindred,Blue,3,False,333.75,Other
+2,0,12,1624,True,"[179993, 182376]","(4, 11)",Kindred,Blue,3,False,406.0,Other
+1,0,20,1675,True,[163955],"(4, 11)",Ekko,Blue,3,True,418.75,Ranked Solo/Duo
+1,1,20,1664,False,[233284],"(4, 11)",Diana,Blue,3,False,416.0,Ranked Solo/Duo
+0,1,16,1310,False,[],"(4, 11)",Ekko,Blue,3,False,327.5,Ranked Solo/Duo
+0,0,20,1211,True,[],"(4, 11)",Khazix,Blue,3,False,302.75,Ranked Solo/Duo
+0,0,27,1381,False,[],"(4, 11)",Brand,Red,4,False,345.25,Ranked Solo/Duo
+1,0,20,1710,True,[232077],"(4, 11)",Ekko,Blue,3,True,427.5,Ranked Solo/Duo
+0,0,16,1120,True,[],"(4, 11)",Ekko,Blue,3,False,280.0,Ranked Solo/Duo
+2,0,28,2035,False,"[173410, 230629]","(11, 4)",Udyr,Blue,3,False,508.75,Ranked Solo/Duo
+0,0,20,1193,True,[],"(4, 11)",Poppy,Blue,4,True,298.25,Ranked Solo/Duo
+0,0,16,1171,False,[],"(4, 11)",Ekko,Blue,3,False,292.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Diana,Red,1,False,348.75,Ranked Solo/Duo
+0,0,16,1120,True,[],"(4, 11)",Ekko,Red,1,False,280.0,Ranked Solo/Duo
+0,0,24,1409,True,[],"(4, 11)",Zac,Green,3,False,352.25,Normal Draft
+0,0,24,1315,False,[],"(11, 4)",Maokai,Red,3,False,328.75,Normal Draft
+0,0,20,1235,True,[],"(4, 11)",Viego,Blue,3,False,308.75,Normal Draft
+1,0,28,1815,False,[212716],"(11, 4)",Udyr,Blue,4,True,453.75,Normal Draft
+0,0,24,1335,False,[],"(11, 4)",Zyra,Red,4,False,333.75,Normal Draft
+0,0,28,1400,True,[],"(11, 4)",Udyr,Blue,4,False,350.0,Normal Draft
+0,0,16,1148,True,[],"(11, 3)",Yorick,Blue,3,False,287.0,Ranked Solo/Duo
+0,0,23,1302,False,[],"(11, 4)",Khazix,Red,3,False,325.5,Ranked Solo/Duo
+0,0,22,1223,True,[],"(4, 11)",Kayn,Green,4,False,305.75,Ranked Solo/Duo
+0,0,20,1264,False,[],"(11, 4)",XinZhao,Blue,4,False,316.0,Ranked Solo/Duo
+0,3,22,1340,False,[],"(11, 4)",Rumble,Red,1,False,335.0,Ranked Solo/Duo
+0,3,24,1477,True,[],"(4, 11)",MonkeyKing,Green,1,False,369.25,Ranked Solo/Duo
+0,0,20,1211,True,[],"(4, 11)",Viego,Green,3,False,302.75,Ranked Flex
+0,1,16,1239,False,[],"(11, 4)",Amumu,Green,3,False,309.75,Ranked Flex
+0,0,20,1222,False,[],"(4, 11)",Viego,Red,2,False,305.5,Ranked Flex
+0,0,16,1252,True,[],"(4, 11)",Gragas,Red,1,False,313.0,Ranked Flex
+0,0,28,1395,True,[],"(4, 11)",Nocturne,Red,2,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(4, 11)",Graves,Green,1,False,333.75,Ranked Solo/Duo
+2,1,20,1943,True,"[114404, 125966]","(11, 4)",MasterYi,Blue,1,False,485.75,Ranked Solo/Duo
+1,0,24,1703,False,[49875],"(11, 6)",Taric,Blue,1,True,425.75,Ranked Solo/Duo
+0,0,20,1244,True,[],"(4, 11)",XinZhao,Blue,3,False,311.0,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Briar,Red,4,False,328.75,Ranked Solo/Duo
+0,2,28,1545,True,[],"(4, 11)",Karthus,Red,1,False,386.25,Ranked Solo/Duo
+1,1,12,1500,False,[198460],"(11, 4)",Nidalee,Red,1,False,375.0,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Diana,Red,4,False,328.75,Ranked Solo/Duo
+1,0,24,1689,True,[213120],"(4, 11)",Kayn,Blue,4,False,422.25,Ranked Solo/Duo
+1,0,24,1709,False,[83263],"(11, 4)",Viego,Blue,1,True,427.25,Ranked Solo/Duo
+0,1,24,1430,True,[],"(11, 4)",Kayn,Blue,1,False,357.5,Ranked Solo/Duo
+0,0,20,1196,False,[],"(3, 11)",Karthus,Red,3,False,299.0,Ranked Solo/Duo
+1,1,24,1980,True,[173954],"(4, 11)",Briar,Green,3,True,495.0,Ranked Solo/Duo
+1,0,20,1511,True,[214869],"(11, 14)",Shaco,Blue,3,False,377.75,Ranked Solo/Duo
+0,0,24,1336,False,[],"(4, 11)",Viego,Blue,3,False,334.0,Ranked Solo/Duo
+0,0,28,1405,True,[],"(4, 11)",JarvanIV,Green,3,False,351.25,Ranked Solo/Duo
+0,0,24,1330,False,[],"(4, 11)",Graves,Red,3,False,332.5,Ranked Solo/Duo
+1,2,14,1847,False,[146374],"(6, 11)",Trundle,Blue,2,True,461.75,Ranked Solo/Duo
+0,0,18,1151,True,[],"(4, 11)",Taliyah,Blue,2,False,287.75,Ranked Solo/Duo
+0,1,28,1445,True,[],"(11, 4)",Shyvana,Red,1,False,361.25,Other
+0,0,20,1250,False,[],"(11, 4)",LeeSin,Blue,1,False,312.5,Other
+0,1,20,1385,True,[],"(11, 4)",Amumu,Green,3,False,346.25,Other
+0,0,28,1395,False,[],"(11, 4)",Kayn,Blue,3,False,348.75,Other
+0,1,28,1542,True,[],"(11, 4)",Sejuani,Green,3,False,385.5,Other
+0,3,16,1498,False,[],"(4, 11)",Nunu,Blue,3,False,374.5,Other
+0,0,24,1335,False,[],"(11, 4)",LeeSin,Blue,3,False,333.75,Ranked Solo/Duo
+0,1,28,1546,True,[],"(6, 11)",Shyvana,Red,3,False,386.5,Ranked Solo/Duo
+0,0,24,1335,True,[],"(11, 4)",LeeSin,Blue,4,False,333.75,Other
+0,0,24,1315,False,[],"(11, 4)",Zed,Red,4,False,328.75,Other
+1,0,24,1615,False,[233833],"(3, 11)",Karthus,Red,4,False,403.75,Other
+0,0,24,1335,True,[],"(11, 4)",Graves,Blue,4,False,333.75,Other
+0,0,28,1395,True,[],"(11, 4)",Lillia,Blue,4,False,348.75,Other
+0,0,28,1400,False,[],"(11, 4)",Kayn,Blue,4,False,350.0,Other
+1,1,16,1794,False,[177044],"(4, 11)",Ekko,Red,3,True,448.5,Ranked Solo/Duo
+0,0,28,1373,True,[],"(11, 4)",Sejuani,Green,3,False,343.25,Ranked Solo/Duo
+0,0,16,1145,False,[],"(11, 4)",Graves,Blue,3,False,286.25,Ranked Solo/Duo
+0,0,20,1230,True,[],"(11, 6)",Udyr,Blue,3,False,307.5,Ranked Solo/Duo
+0,0,8,798,True,[],"(4, 11)",Elise,Red,2,False,199.5,Ranked Flex
+0,0,12,854,False,[],"(11, 4)",Diana,Red,3,False,213.5,Ranked Flex
+0,1,24,1465,False,[],"(4, 11)",Shyvana,Red,2,False,366.25,Ranked Flex
+1,0,20,1523,True,[214918],"(4, 11)",Khazix,Red,2,False,380.75,Ranked Flex
+0,0,28,1395,True,[],"(11, 4)",Amumu,Green,5,False,348.75,Ranked Flex
+0,0,20,1226,False,[],"(11, 4)",Poppy,Blue,5,False,306.5,Ranked Flex
+0,1,28,1562,True,[],"(11, 4)",Amumu,Green,3,False,390.5,Ranked Flex
+0,0,20,1206,False,[],"(11, 4)",Viego,Blue,3,False,301.5,Ranked Flex
+0,0,16,1131,True,[],"(11, 4)",Ivern,Green,2,False,282.75,Ranked Flex
+0,0,20,1245,False,[],"(11, 4)",Amumu,Green,3,False,311.25,Ranked Flex
+0,0,19,1201,False,[],"(4, 11)",Kindred,Red,2,False,300.25,Normal Draft
+1,0,24,1720,True,[130068],"(14, 11)",Shaco,Red,3,True,430.0,Normal Draft
+0,0,20,1255,False,[],"(11, 4)",Kindred,No Item,3,False,313.75,Normal Draft
+1,0,24,1756,True,[166052],"(11, 4)",Briar,Blue,3,True,439.0,Normal Draft
+0,0,24,1335,False,[],"(4, 11)",Graves,Red,4,False,333.75,Normal Draft
+1,0,24,1735,True,[239866],"(11, 4)",LeeSin,Red,4,True,433.75,Normal Draft
+0,1,20,1470,True,[],"(11, 4)",Gragas,Red,3,False,367.5,Other
+0,0,20,1225,False,[],"(11, 4)",Sejuani,Green,3,False,306.25,Other
+0,0,24,1305,True,[],"(4, 11)",Kindred,Red,2,False,326.25,Normal Draft
+0,0,28,1395,False,[],"(11, 6)",Hecarim,Blue,2,False,348.75,Normal Draft
+0,1,24,1360,True,[],"(4, 11)",Zac,Red,1,False,340.0,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",MasterYi,Green,1,False,348.75,Normal Draft
+0,0,28,1395,False,[],"(4, 11)",Rengar,Blue,4,False,348.75,Normal Draft
+0,0,20,1226,True,[],"(4, 11)",Ekko,Blue,4,False,306.5,Normal Draft
+0,0,27,1381,True,[],"(11, 4)",Viego,Red,4,False,345.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Gragas,Blue,4,False,348.75,Ranked Solo/Duo
+0,2,16,1381,False,[],"(4, 11)",Amumu,Blue,3,False,345.25,Ranked Solo/Duo
+1,0,16,1465,True,[191747],"(11, 6)",Darius,Blue,3,False,366.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Morgana,Red,3,False,348.75,Ranked Solo/Duo
+0,1,20,1338,True,[],"(4, 11)",Gragas,Red,3,False,334.5,Ranked Solo/Duo
+2,0,20,1986,True,"[46163, 206934]","(11, 4)",Rengar,Blue,1,True,496.5,Ranked Solo/Duo
+0,0,24,1357,False,[],"(11, 6)",Hecarim,Blue,1,False,339.25,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Chogath,Blue,4,False,328.75,Ranked Solo/Duo
+0,0,28,1462,True,[],"(4, 11)",Khazix,Blue,4,False,365.5,Ranked Solo/Duo
+1,0,24,1636,True,[205724],"(11, 4)",Ekko,Blue,3,False,409.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Kindred,Red,3,False,348.75,Ranked Solo/Duo
+1,1,15,1614,True,[185088],"(4, 11)",Viego,Blue,3,False,403.5,Ranked Solo/Duo
+0,3,12,1558,False,[],"(11, 4)",Nocturne,Red,3,False,389.5,Ranked Solo/Duo
+1,0,24,1737,True,[185503],"(11, 4)",Kindred,Green,4,True,434.25,Ranked Solo/Duo
+0,0,20,1245,False,[],"(11, 4)",FiddleSticks,Green,3,False,311.25,Ranked Solo/Duo
+0,0,20,1255,True,[],"(11, 4)",Nocturne,Red,3,False,313.75,Ranked Solo/Duo
+0,0,16,1101,False,[],"(4, 11)",Morgana,Red,3,False,275.25,Ranked Solo/Duo
+2,0,10,1660,False,"[182501, 216634]","(4, 11)",Ivern,Blue,2,False,415.0,Ranked Solo/Duo
+0,0,20,1203,True,[],"(11, 4)",Amumu,Green,2,False,300.75,Ranked Solo/Duo
+1,0,12,1460,True,[218312],"(4, 11)",Kayn,Blue,3,True,365.0,Ranked Solo/Duo
+0,1,16,1301,False,[],"(11, 4)",Warwick,Blue,3,False,325.25,Ranked Solo/Duo
+0,1,28,1440,False,[],"(11, 4)",LeeSin,Green,1,False,360.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Diana,Red,1,False,348.75,Ranked Solo/Duo
+0,0,24,1334,True,[],"(4, 11)",Kayn,Blue,3,False,333.5,Ranked Solo/Duo
+1,0,12,1415,False,[237605],"(11, 4)",Diana,Green,3,False,353.75,Ranked Solo/Duo
+1,0,16,1451,False,[204360],"(11, 4)",Warwick,Green,3,False,362.75,Ranked Solo/Duo
+2,0,24,1961,True,"[206464, 219657]","(4, 11)",Viego,Blue,3,False,490.25,Ranked Solo/Duo
+1,0,20,1546,True,[200710],"(11, 4)",Lillia,Blue,3,False,386.5,Ranked Solo/Duo
+0,0,20,1250,False,[],"(6, 11)",Udyr,Blue,3,False,312.5,Ranked Solo/Duo
+1,0,16,1456,False,[57086],"(11, 4)",Vi,Blue,1,False,364.0,Ranked Solo/Duo
+1,2,12,1473,True,[157926],"(11, 4)",Kayn,Green,1,False,368.25,Ranked Solo/Duo
+0,1,24,1510,False,[],"(11, 4)",Kayn,Blue,3,False,377.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Shyvana,Red,3,False,348.75,Ranked Solo/Duo
+0,0,16,1117,True,[],"(4, 11)",Briar,Green,3,False,279.25,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Shyvana,Red,3,False,333.75,Ranked Solo/Duo
+0,0,20,1235,True,[],"(14, 11)",Zac,Green,4,False,308.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(11, 6)",Nocturne,Green,4,False,328.75,Ranked Solo/Duo
+0,0,24,1370,False,[],"(4, 11)",FiddleSticks,Red,4,False,342.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Kayn,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Shyvana,Red,2,False,328.75,Ranked Solo/Duo
+1,0,24,1635,True,[224987],"(11, 4)",JarvanIV,Blue,2,False,408.75,Ranked Solo/Duo
+0,0,16,1175,True,[],"(11, 4)",Chogath,Blue,3,False,293.75,Ranked Solo/Duo
+1,0,12,1355,False,[194946],"(11, 4)",Elise,Red,3,False,338.75,Ranked Solo/Duo
+0,1,10,1160,False,[],"(4, 11)",Graves,Red,2,False,290.0,Ranked Solo/Duo
+1,1,20,1638,True,[196568],"(4, 11)",Vi,Blue,3,False,409.5,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Kayle,Blue,3,False,348.75,Normal Draft
+0,1,16,1402,True,[],"(4, 11)",Belveth,Green,3,False,350.5,Normal Draft
+1,0,20,1710,True,[193491],"(11, 6)",Briar,Red,4,True,427.5,Normal Draft
+0,0,20,1196,False,[],"(4, 11)",Shyvana,Red,3,False,299.0,Normal Draft
+1,0,28,1815,True,[228839],"(4, 11)",Rengar,Blue,4,True,453.75,Normal Draft
+0,0,24,1320,False,[],"(4, 11)",Shyvana,Red,4,False,330.0,Normal Draft
+0,1,24,1380,False,[],"(4, 11)",Warwick,Green,1,False,345.0,Normal Draft
+0,0,28,1395,True,[],"(4, 11)",Lillia,Blue,1,False,348.75,Normal Draft
+0,0,24,1315,False,[],"(4, 11)",Evelynn,Blue,3,False,328.75,Ranked Flex
+0,0,28,1395,True,[],"(6, 11)",Volibear,Blue,3,False,348.75,Ranked Flex
+0,0,28,1395,False,[],"(11, 4)",Amumu,Green,4,False,348.75,Ranked Flex
+0,1,24,1504,True,[],"(6, 11)",Gwen,Blue,4,False,376.0,Ranked Flex
+0,0,28,1395,True,[],"(4, 11)",Shyvana,Red,3,False,348.75,Normal Draft
+0,0,28,1395,False,[],"(4, 11)",Graves,Red,3,False,348.75,Normal Draft
+0,1,24,1410,True,[],"(4, 11)",Rengar,Blue,4,False,352.5,Normal Draft
+0,1,28,1545,False,[],"(11, 4)",Garen,Blue,4,False,386.25,Normal Draft
+1,0,24,1655,True,[233909],"(11, 4)",Diana,Blue,3,False,413.75,Normal Draft
+0,1,28,1545,False,[],"(4, 11)",Rengar,Blue,3,False,386.25,Normal Draft
+0,0,28,1395,False,[],"(4, 11)",Rengar,Blue,4,False,348.75,Normal Draft
+0,0,28,1430,True,[],"(4, 11)",Lillia,Blue,4,False,357.5,Normal Draft
+0,0,20,1255,False,[],"(11, 4)",Ekko,Blue,4,False,313.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Graves,Red,4,True,348.75,Ranked Solo/Duo
+0,0,26,1375,True,[],"(11, 4)",Graves,Red,3,False,343.75,Ranked Solo/Duo
+0,0,24,1320,False,[],"(11, 4)",LeeSin,Red,3,False,330.0,Ranked Solo/Duo
+0,1,28,1479,False,[],"(11, 4)",Diana,Blue,1,False,369.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Brand,Red,1,False,348.75,Ranked Solo/Duo
+0,1,16,1343,True,[],"(4, 11)",Gragas,Blue,3,False,335.75,Ranked Solo/Duo
+1,0,20,1527,False,[224611],"(11, 14)",Shaco,Blue,3,False,381.75,Ranked Solo/Duo
+0,0,16,1145,False,[],"(4, 11)",Viego,Blue,3,False,286.25,Ranked Solo/Duo
+0,0,20,1242,True,[],"(11, 4)",LeeSin,Red,3,False,310.5,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Rengar,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Sejuani,Blue,3,False,333.75,Ranked Solo/Duo
+1,0,17,1486,False,[114495],"(4, 11)",Naafiri,Red,2,False,371.5,Ranked Solo/Duo
+0,1,16,1253,True,[],"(11, 4)",Ekko,Green,2,False,313.25,Ranked Solo/Duo
+1,2,24,1916,True,[235686],"(4, 11)",Amumu,Green,4,False,479.0,Ranked Solo/Duo
+0,0,24,1356,False,[],"(11, 4)",Lillia,No Item,4,False,339.0,Ranked Solo/Duo
+0,0,24,1283,True,[],"(11, 4)",Sejuani,Green,2,False,320.75,Ranked Solo/Duo
+0,2,12,1211,False,[],"(11, 4)",Kayn,Blue,2,False,302.75,Ranked Solo/Duo
+1,1,16,1654,True,[196561],"(4, 11)",Evelynn,Blue,3,False,413.5,Ranked Solo/Duo
+0,0,20,1226,False,[],"(4, 11)",JarvanIV,Red,3,False,306.5,Ranked Solo/Duo
+0,0,28,1410,True,[],"(6, 11)",Olaf,No Item,2,False,352.5,Ranked Solo/Duo
+2,0,16,1863,False,"[78140, 190205]","(4, 11)",Graves,Blue,2,True,465.75,Ranked Solo/Duo
+1,0,28,1899,True,[235344],"(11, 4)",Brand,Green,4,True,474.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Graves,Red,4,False,348.75,Ranked Solo/Duo
+0,0,28,1392,False,[],"(4, 11)",Graves,Green,3,False,348.0,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",JarvanIV,Blue,3,False,333.75,Ranked Solo/Duo
+0,1,24,1326,False,[],"(4, 11)",Graves,Green,1,False,331.5,Ranked Solo/Duo
+1,0,24,1740,True,[90543],"(11, 4)",Khazix,Blue,1,True,435.0,Ranked Solo/Duo
+0,0,24,1283,False,[],"(4, 11)",Graves,Blue,3,False,320.75,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Riven,Green,3,False,333.75,Ranked Solo/Duo
+1,1,23,1647,True,[213400],"(4, 11)",Graves,Blue,1,False,411.75,Ranked Solo/Duo
+1,1,16,1560,False,[199639],"(4, 11)",XinZhao,Blue,1,False,390.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Volibear,Blue,4,False,348.75,Ranked Solo/Duo
+0,2,24,1530,True,[],"(4, 11)",Graves,Green,4,False,382.5,Ranked Solo/Duo
+0,0,16,1170,True,[],"(11, 4)",LeeSin,Red,3,False,292.5,Ranked Solo/Duo
+0,0,26,1337,False,[],"(4, 11)",Graves,Green,4,False,334.25,Ranked Solo/Duo
+1,0,24,1663,True,[211733],"(4, 11)",Graves,Red,3,False,415.75,Ranked Solo/Duo
+0,0,28,1410,False,[],"(4, 11)",Shyvana,Red,3,False,352.5,Ranked Solo/Duo
+0,0,23,1324,True,[],"(4, 11)",Graves,Red,3,False,331.0,Ranked Solo/Duo
+1,0,20,1665,False,[168825],"(11, 6)",Lillia,Blue,3,False,416.25,Ranked Solo/Duo
+0,0,28,1406,True,[],"(4, 11)",Lillia,Green,3,False,351.5,Normal Draft
+0,0,28,1392,False,[],"(4, 11)",Qiyana,Blue,3,False,348.0,Normal Draft
+2,0,16,1848,True,"[111421, 182644]","(4, 11)",Rengar,Blue,1,True,462.0,Normal Draft
+0,0,8,986,False,[],"(4, 11)",Qiyana,Blue,1,False,246.5,Normal Draft
+0,0,10,792,False,[],"(11, 4)",FiddleSticks,Blue,1,False,198.0,Ranked Solo/Duo
+1,0,12,1267,True,[46420],"(4, 11)",Nidalee,Red,1,True,316.75,Ranked Solo/Duo
+1,1,24,1793,False,[208856],"(11, 4)",Diana,Blue,3,False,448.25,Ranked Solo/Duo
+1,0,20,1608,True,[204781],"(11, 4)",Viego,No Item,3,False,402.0,Ranked Solo/Duo
+0,1,24,1485,True,[],"(4, 11)",Amumu,Green,3,False,371.25,Other
+0,0,24,1315,False,[],"(6, 11)",Olaf,Blue,3,False,328.75,Other
+0,0,28,1400,True,[],"(11, 12)",Shyvana,Blue,4,False,350.0,Normal Draft
+0,0,24,1335,False,[],"(6, 11)",Tryndamere,Blue,4,False,333.75,Normal Draft
+0,0,16,1155,False,[],"(4, 11)",Malphite,Blue,5,False,288.75,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",FiddleSticks,Red,5,False,328.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Nocturne,Red,3,False,348.75,Ranked Flex
+2,0,16,1856,True,"[162647, 199012]","(11, 4)",Warwick,Blue,3,True,464.0,Ranked Flex
+0,0,16,1145,True,[],"(11, 4)",JarvanIV,Red,3,False,286.25,Ranked Flex
+1,0,16,1572,False,[132152],"(11, 4)",Warwick,Blue,2,True,393.0,Ranked Flex
+0,0,16,1150,False,[],"(11, 21)",Warwick,Green,3,False,287.5,Ranked Solo/Duo
+1,0,28,1845,True,[236838],"(11, 4)",Shyvana,Red,4,True,461.25,Ranked Solo/Duo
+0,1,28,1545,True,[],"(4, 11)",Karthus,Red,1,False,386.25,Ranked Solo/Duo
+0,0,24,1335,False,[],"(4, 11)",Briar,Green,1,False,333.75,Ranked Solo/Duo
+0,0,16,1131,False,[],"(11, 4)",Khazix,Blue,3,False,282.75,Ranked Solo/Duo
+1,0,24,1655,True,[236777],"(11, 4)",Kindred,Green,4,False,413.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Udyr,Green,3,False,348.75,Ranked Solo/Duo
+1,0,24,1648,True,[170573],"(11, 4)",Viego,Blue,3,False,412.0,Ranked Solo/Duo
+1,1,15,1534,True,[203026],"(11, 4)",RekSai,Blue,2,False,383.5,Ranked Solo/Duo
+0,0,28,1392,False,[],"(4, 11)",Nocturne,Red,2,False,348.0,Ranked Solo/Duo
+0,0,27,1381,False,[],"(11, 6)",Darius,Blue,3,False,345.25,Ranked Solo/Duo
+1,1,24,1730,True,[224806],"(11, 4)",Udyr,Green,3,False,432.5,Ranked Solo/Duo
+0,1,24,1485,False,[],"(11, 4)",Udyr,Blue,3,False,371.25,Ranked Solo/Duo
+0,1,24,1479,True,[],"(11, 4)",Talon,No Item,3,False,369.75,Ranked Solo/Duo
+0,1,14,1182,False,[],"(6, 11)",Warwick,Blue,3,False,295.5,Ranked Solo/Duo
+0,1,24,1534,True,[],"(11, 6)",Shyvana,Red,4,False,383.5,Ranked Solo/Duo
+0,0,24,1320,True,[],"(11, 4)",Maokai,Red,3,False,330.0,Ranked Solo/Duo
+0,0,24,1315,False,[],"(11, 14)",Zac,Green,3,False,328.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Lillia,No Item,4,False,348.75,Ranked Solo/Duo
+0,0,28,1458,True,[],"(6, 11)",Hecarim,Blue,4,False,364.5,Ranked Solo/Duo
+0,1,24,1554,False,[],"(4, 11)",Lillia,Blue,4,False,388.5,Ranked Solo/Duo
+0,0,20,1206,True,[],"(4, 11)",Poppy,Green,4,False,301.5,Ranked Solo/Duo
+0,1,16,1320,True,[],"(4, 11)",Rammus,Blue,3,False,330.0,Ranked Solo/Duo
+0,0,16,1145,False,[],"(11, 4)",RekSai,Red,3,False,286.25,Ranked Solo/Duo
+1,0,24,1709,True,[211325],"(11, 3)",Karthus,Blue,3,False,427.25,Ranked Solo/Duo
+1,0,16,1436,False,[205187],"(4, 11)",Rengar,Blue,3,False,359.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Kayn,Blue,2,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Rammus,Green,2,False,348.75,Ranked Solo/Duo
+0,0,20,1237,False,[],"(11, 4)",Graves,Red,3,False,309.25,Ranked Solo/Duo
+1,0,24,1635,True,[233759],"(4, 11)",LeeSin,Red,4,False,408.75,Ranked Solo/Duo
+0,0,12,863,True,[],"(11, 4)",LeeSin,Red,2,False,215.75,Ranked Solo/Duo
+1,0,8,1098,False,[151945],"(11, 4)",Briar,Blue,2,False,274.5,Ranked Solo/Duo
+1,0,20,1656,False,[185430],"(11, 4)",Volibear,Red,4,True,414.0,Ranked Solo/Duo
+1,0,20,1640,True,[189700],"(4, 11)",Talon,Blue,4,False,410.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Ekko,Red,3,False,348.75,Other
+0,0,28,1451,True,[],"(11, 4)",Lillia,Blue,3,False,362.75,Other
+0,0,28,1392,True,[],"(11, 4)",Viego,Blue,3,False,348.0,Other
+0,0,28,1392,False,[],"(11, 6)",MonkeyKing,Green,3,False,348.0,Other
+0,0,24,1315,False,[],"(11, 4)",Rammus,Green,5,False,328.75,Other
+0,0,28,1395,True,[],"(4, 11)",Mordekaiser,Green,6,False,348.75,Other
+1,1,20,1841,False,[209516],"(11, 4)",Khazix,Blue,3,True,460.25,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Diana,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,7,708,False,[],"(11, 4)",LeeSin,Red,0,False,177.0,Ranked Solo/Duo
+0,0,8,735,True,[],"(11, 4)",Khazix,Red,0,False,183.75,Ranked Solo/Duo
+2,1,20,2350,True,"[181078, 236922]","(11, 4)",Khazix,Blue,4,True,587.5,Ranked Solo/Duo
+0,0,20,1245,False,[],"(11, 4)",Diana,Green,3,False,311.25,Ranked Solo/Duo
+1,1,24,1720,True,[218013],"(11, 4)",Shyvana,Green,4,False,430.0,Ranked Solo/Duo
+0,1,20,1505,False,[],"(4, 11)",Ekko,Red,3,False,376.25,Ranked Solo/Duo
+1,0,24,1635,True,[201129],"(4, 11)",Nocturne,Blue,3,False,408.75,Ranked Solo/Duo
+0,0,20,1206,False,[],"(11, 4)",LeeSin,Red,3,False,301.5,Ranked Solo/Duo
+1,0,16,1482,False,[185975],"(11, 4)",JarvanIV,Green,3,False,370.5,Ranked Solo/Duo
+1,0,24,1683,True,[202207],"(4, 11)",Diana,Green,3,False,420.75,Ranked Solo/Duo
+1,0,20,1630,False,[192659],"(14, 11)",Shaco,Red,3,True,407.5,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Vi,Blue,4,False,333.75,Ranked Solo/Duo
+2,0,20,1875,True,"[230044, 236257]","(4, 11)",XinZhao,Red,3,False,468.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(6, 11)",Hecarim,No Item,3,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Ekko,Red,5,False,348.75,Ranked Solo/Duo
+0,0,24,1335,True,[],"(11, 4)",Zac,Green,5,False,333.75,Ranked Solo/Duo
+0,0,24,1340,True,[],"(11, 14)",Talon,Blue,3,False,335.0,Ranked Flex
+0,0,20,1206,False,[],"(4, 11)",Belveth,Blue,3,False,301.5,Ranked Flex
+1,0,21,1741,True,[213797],"(4, 11)",LeeSin,Blue,4,True,435.25,Ranked Flex
+0,0,22,1251,False,[],"(4, 11)",Brand,Red,3,False,312.75,Ranked Flex
+0,0,28,1395,True,[],"(11, 3)",Karthus,Red,3,False,348.75,Ranked Flex
+0,0,24,1286,False,[],"(4, 11)",Belveth,Blue,3,False,321.5,Ranked Flex
+0,0,20,1255,True,[],"(11, 4)",Brand,Blue,3,False,313.75,Ranked Flex
+0,0,24,1307,False,[],"(11, 4)",Shyvana,Red,3,False,326.75,Ranked Flex
+1,0,15,1480,False,[235183],"(11, 4)",Ekko,Blue,3,False,370.0,Ranked Solo/Duo
+1,0,21,1565,True,[173106],"(14, 11)",Shaco,Blue,3,False,391.25,Ranked Solo/Duo
+0,1,28,1470,True,[],"(11, 4)",Karthus,Red,3,False,367.5,Ranked Solo/Duo
+0,0,28,1410,False,[],"(4, 11)",Amumu,Blue,3,False,352.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Udyr,Blue,4,False,348.75,Ranked Solo/Duo
+1,0,24,1779,False,[232552],"(11, 6)",Hecarim,Blue,4,True,444.75,Ranked Solo/Duo
+0,1,16,1309,True,[],"(11, 4)",Ekko,Blue,3,False,327.25,Ranked Solo/Duo
+0,0,23,1332,False,[],"(11, 4)",Zyra,Red,4,False,333.0,Ranked Solo/Duo
+0,0,20,1227,False,[],"(4, 11)",Viego,Red,3,False,306.75,Ranked Solo/Duo
+2,0,24,1961,True,"[170270, 173744]","(11, 4)",Warwick,Blue,3,False,490.25,Ranked Solo/Duo
+0,2,28,1487,True,[],"(11, 4)",Nocturne,Red,2,False,371.75,Ranked Flex
+0,0,20,1226,False,[],"(11, 4)",XinZhao,Blue,2,False,306.5,Ranked Flex
+0,1,28,1465,True,[],"(11, 4)",Volibear,Red,1,False,366.25,Ranked Flex
+0,1,24,1410,False,[],"(11, 4)",LeeSin,Red,1,False,352.5,Ranked Flex
+2,0,16,1866,False,"[200229, 233963]","(11, 4)",Chogath,Red,3,True,466.5,Ranked Flex
+0,0,24,1335,True,[],"(4, 11)",Briar,Green,4,False,333.75,Ranked Flex
+1,0,24,1586,False,[211386],"(11, 4)",Nunu,Blue,3,False,396.5,Normal Draft
+0,0,20,1206,True,[],"(11, 4)",Zac,Green,3,False,301.5,Normal Draft
+0,0,24,1335,True,[],"(4, 11)",XinZhao,Blue,2,False,333.75,Other
+0,0,24,1335,False,[],"(4, 11)",Vi,Green,2,False,333.75,Other
+0,0,28,1395,False,[],"(14, 11)",Amumu,Green,3,False,348.75,Other
+0,0,12,1041,True,[],"(4, 11)",Thresh,Green,2,False,260.25,Other
+0,0,28,1395,False,[],"(6, 11)",Darius,Red,4,False,348.75,Normal Draft
+0,0,24,1335,True,[],"(4, 11)",Teemo,Red,4,False,333.75,Normal Draft
+0,0,24,1315,True,[],"(11, 6)",Mordekaiser,Green,4,False,328.75,Ranked Flex
+0,0,24,1291,False,[],"(11, 4)",Viego,Blue,3,False,322.75,Ranked Flex
+0,0,28,1400,False,[],"(11, 4)",Kayn,Green,4,False,350.0,Normal Draft
+0,0,24,1335,True,[],"(11, 4)",Belveth,Green,4,False,333.75,Normal Draft
+0,0,24,1335,False,[],"(11, 4)",Nidalee,Red,1,False,333.75,Normal Draft
+0,0,24,1335,True,[],"(11, 4)",Diana,Red,1,False,333.75,Normal Draft
+0,0,20,1260,True,[],"(11, 4)",JarvanIV,Red,3,False,315.0,Ranked Solo/Duo
+0,1,16,1313,False,[],"(11, 4)",Graves,Red,2,False,328.25,Ranked Solo/Duo
+1,0,16,1479,False,[165021],"(11, 3)",Karthus,Red,3,False,369.75,Ranked Solo/Duo
+1,0,16,1437,True,[191169],"(4, 11)",Vi,Blue,3,False,359.25,Ranked Solo/Duo
+2,0,16,1688,True,"[113199, 237852]","(11, 4)",Poppy,Green,1,False,422.0,Ranked Solo/Duo
+0,1,12,1094,False,[],"(4, 11)",JarvanIV,Green,1,False,273.5,Ranked Solo/Duo
+0,2,16,1266,True,[],"(11, 4)",RekSai,Red,1,False,316.5,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",JarvanIV,Blue,1,False,348.75,Ranked Solo/Duo
+0,0,24,1385,True,[],"(4, 11)",Lillia,Blue,3,False,346.25,Ranked Solo/Duo
+1,0,16,1560,False,[159667],"(11, 4)",MasterYi,Blue,2,True,390.0,Ranked Solo/Duo
+0,0,24,1286,True,[],"(4, 11)",Kayn,Green,3,False,321.5,Ranked Solo/Duo
+1,0,20,1526,False,[227333],"(11, 4)",Udyr,Green,3,False,381.5,Ranked Solo/Duo
+1,0,24,1615,False,[213472],"(4, 11)",Diana,Red,3,False,403.75,Ranked Solo/Duo
+3,0,16,2096,True,"[196311, 222246, 235213]","(4, 11)",Warwick,Blue,3,False,524.0,Ranked Solo/Duo
+0,0,16,1135,False,[],"(4, 11)",LeeSin,Red,3,False,283.75,Ranked Solo/Duo
+0,0,28,1400,True,[],"(11, 4)",Sejuani,Green,4,False,350.0,Ranked Solo/Duo
+0,1,24,1390,False,[],"(11, 4)",Volibear,Blue,3,False,347.5,Normal Draft
+1,0,24,1615,True,[229833],"(11, 4)",Zyra,Red,3,False,403.75,Normal Draft
+3,0,20,2229,True,"[161359, 163766, 239007]","(11, 4)",LeeSin,No Item,3,False,557.25,Ranked Solo/Duo
+0,2,12,1381,False,[],"(11, 6)",Rammus,Green,3,False,345.25,Ranked Solo/Duo
+0,1,16,1365,False,[],"(4, 11)",Sejuani,Green,3,False,341.25,Ranked Solo/Duo
+0,0,20,1230,True,[],"(4, 11)",Graves,Red,3,False,307.5,Ranked Solo/Duo
+0,1,24,1454,True,[],"(4, 11)",Skarner,Green,3,False,363.5,Ranked Solo/Duo
+0,0,28,1400,False,[],"(11, 6)",Udyr,Blue,3,False,350.0,Ranked Solo/Duo
+0,1,24,1521,True,[],"(4, 11)",Viego,Blue,1,False,380.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Lillia,Blue,1,False,348.75,Ranked Solo/Duo
+1,0,20,1629,True,[83430],"(4, 11)",Nidalee,Blue,2,True,407.25,Ranked Solo/Duo
+0,0,20,1216,False,[],"(11, 4)",MasterYi,Red,1,False,304.0,Ranked Solo/Duo
+0,1,24,1515,True,[],"(11, 4)",Khazix,Blue,4,False,378.75,Ranked Solo/Duo
+0,1,28,1520,False,[],"(4, 11)",Nidalee,Red,4,False,380.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 6)",Udyr,Blue,1,False,348.75,Ranked Solo/Duo
+1,1,28,1910,False,[37790],"(6, 11)",Hecarim,Blue,1,True,477.5,Ranked Solo/Duo
+0,0,19,1199,True,[],"(4, 11)",Kayn,Red,3,False,299.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 6)",Udyr,Green,3,False,348.75,Ranked Solo/Duo
+1,1,12,1561,False,[173712],"(4, 11)",Warwick,Green,3,True,390.25,Ranked Solo/Duo
+0,0,20,1239,True,[],"(4, 11)",Volibear,Blue,3,False,309.75,Ranked Solo/Duo
+0,1,16,1288,True,[],"(4, 11)",Kayn,Red,3,False,322.0,Ranked Solo/Duo
+1,0,20,1508,False,[173966],"(11, 4)",Amumu,Green,3,False,377.0,Ranked Solo/Duo
+1,0,19,1579,False,[183570],"(4, 11)",Khazix,Blue,3,False,394.75,Ranked Solo/Duo
+0,2,15,1580,True,[],"(4, 11)",MasterYi,Red,3,False,395.0,Ranked Solo/Duo
+1,0,20,1625,True,[168849],"(4, 11)",Kayn,Blue,3,False,406.25,Ranked Solo/Duo
+0,1,20,1308,False,[],"(11, 4)",Viego,Blue,3,False,327.0,Ranked Solo/Duo
+0,1,16,1321,False,[],"(4, 11)",Volibear,Blue,3,False,330.25,Ranked Solo/Duo
+1,0,12,1361,True,[210481],"(4, 11)",Warwick,Green,3,False,340.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Khazix,Red,4,False,348.75,Ranked Solo/Duo
+3,1,12,2297,True,"[129423, 194109, 230349]","(11, 4)",Khazix,Blue,1,False,574.25,Ranked Solo/Duo
+0,0,20,1221,False,[],"(14, 11)",Shyvana,Red,1,False,305.25,Ranked Solo/Duo
+0,0,23,1321,False,[],"(4, 11)",Aurora,Red,3,False,330.25,Normal Draft
+0,0,20,1225,True,[],"(11, 4)",Nocturne,Red,3,False,306.25,Normal Draft
+0,0,30,1432,True,[],"(4, 11)",Khazix,Blue,3,False,358.0,Ranked Flex
+0,0,12,1021,False,[],"(11, 4)",Karthus,Red,3,False,255.25,Ranked Flex
+0,0,16,1289,False,[],"(6, 11)",Nunu,Blue,3,False,322.25,Ranked Flex
+0,1,24,1490,True,[],"(4, 11)",Udyr,Blue,3,False,372.5,Ranked Flex
+0,1,28,1545,False,[],"(11, 3)",Karthus,Red,2,False,386.25,Other
+0,0,24,1315,True,[],"(4, 11)",Kayn,Green,2,False,328.75,Other
+1,1,20,1740,True,[223424],"(4, 11)",Khazix,Blue,3,False,435.0,Other
+1,0,28,1880,False,[210833],"(11, 4)",Ekko,Red,4,True,470.0,Other
+0,0,16,1178,True,[],"(4, 11)",Viego,Green,1,False,294.5,Other
+0,1,19,1262,False,[],"(11, 4)",Shyvana,Red,1,False,315.5,Other
+0,0,24,1315,True,[],"(11, 4)",Diana,Red,4,False,328.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Khazix,Blue,4,False,328.75,Ranked Solo/Duo
+0,1,28,1504,False,[],"(4, 11)",LeeSin,Green,4,False,376.0,Ranked Solo/Duo
+0,0,20,1221,True,[],"(4, 11)",RekSai,Red,3,False,305.25,Ranked Solo/Duo
+0,1,24,1489,True,[],"(4, 11)",Khazix,Blue,4,False,372.25,Ranked Solo/Duo
+1,0,24,1832,False,[219127],"(4, 11)",Volibear,Green,4,True,458.0,Ranked Solo/Duo
+0,0,0,500,False,[],"(4, 11)",Graves,Red,0,False,125.0,Ranked Solo/Duo
+0,0,0,500,True,[],"(11, 4)",Khazix,No Item,0,False,125.0,Ranked Solo/Duo
+0,0,24,1345,True,[],"(4, 11)",Riven,Green,4,False,336.25,Ranked Solo/Duo
+1,0,24,1606,False,[213380],"(4, 11)",Graves,Red,4,False,401.5,Ranked Solo/Duo
+1,1,16,1649,False,[169424],"(11, 4)",Amumu,Green,3,True,412.25,Other
+0,0,20,1230,True,[],"(11, 4)",Sejuani,Blue,3,False,307.5,Other
+0,0,28,1395,True,[],"(11, 4)",Amumu,Green,3,False,348.75,Other
+1,0,20,1715,False,[161717],"(4, 11)",Belveth,Green,3,True,428.75,Other
+0,0,16,1120,True,[],"(11, 4)",Nocturne,Blue,3,False,280.0,Other
+0,0,24,1315,False,[],"(4, 11)",Shyvana,Red,3,False,328.75,Other
+1,0,18,1526,True,[210423],"(4, 11)",Kindred,Red,3,False,381.5,Ranked Solo/Duo
+0,0,12,1114,False,[],"(6, 11)",Khazix,Blue,3,False,278.5,Ranked Solo/Duo
+0,0,24,1335,False,[],"(4, 11)",Rammus,Blue,3,False,333.75,Ranked Solo/Duo
+1,0,23,1663,True,[230781],"(14, 11)",MasterYi,Red,3,False,415.75,Ranked Solo/Duo
+0,0,22,1226,True,[],"(11, 4)",Kayn,Red,4,False,306.5,Ranked Solo/Duo
+0,0,18,1205,False,[],"(4, 11)",Ekko,Red,4,False,301.25,Ranked Solo/Duo
+1,0,24,1735,False,[211899],"(11, 6)",Garen,Green,4,True,433.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Lillia,Blue,4,False,348.75,Ranked Solo/Duo
+1,0,23,1741,True,[173077],"(11, 4)",RekSai,Red,3,True,435.25,Ranked Solo/Duo
+0,0,20,1265,False,[],"(11, 4)",Kindred,Red,2,False,316.25,Ranked Solo/Duo
+0,0,18,1195,False,[],"(6, 11)",Khazix,Blue,3,False,298.75,Ranked Solo/Duo
+2,0,20,1838,True,"[162067, 172845]","(6, 11)",Gwen,Blue,3,False,459.5,Ranked Solo/Duo
+0,0,16,1126,True,[],"(4, 11)",Lillia,Blue,2,False,281.5,Ranked Solo/Duo
+2,0,20,1895,False,"[162206, 215421]","(11, 6)",Skarner,Blue,3,True,473.75,Ranked Solo/Duo
+1,0,24,1615,False,[225348],"(11, 4)",Ekko,No Item,3,False,403.75,Ranked Solo/Duo
+1,0,16,1437,True,[199821],"(11, 4)",Volibear,Blue,3,False,359.25,Ranked Solo/Duo
+0,0,16,1145,False,[],"(4, 11)",Khazix,Blue,3,False,286.25,Ranked Solo/Duo
+1,0,20,1603,True,[188477],"(11, 4)",Rengar,Blue,3,False,400.75,Ranked Solo/Duo
+1,0,23,1658,False,[210750],"(11, 4)",Taliyah,Blue,4,False,414.5,Ranked Solo/Duo
+1,0,20,1626,True,[209257],"(11, 4)",JarvanIV,Green,3,True,406.5,Ranked Solo/Duo
+0,0,22,1315,True,[],"(11, 4)",Ivern,Blue,3,False,328.75,Ranked Flex
+0,0,16,1131,False,[],"(14, 11)",Udyr,Blue,3,False,282.75,Ranked Flex
+0,0,12,1066,True,[],"(11, 4)",Ezreal,Red,2,False,266.5,Ranked Flex
+0,1,16,1299,False,[],"(14, 11)",Shaco,Blue,3,False,324.75,Ranked Flex
+0,0,28,1395,False,[],"(11, 4)",Vi,Blue,3,False,348.75,Normal Draft
+0,0,24,1335,True,[],"(4, 11)",Udyr,Blue,3,False,333.75,Normal Draft
+1,0,20,1576,False,[194594],"(11, 4)",Nunu,Red,3,False,394.0,Normal Draft
+0,0,24,1335,True,[],"(4, 11)",Udyr,Blue,3,False,333.75,Normal Draft
+2,0,20,1822,True,"[187047, 190320]","(11, 4)",Evelynn,Red,3,False,455.5,Normal Draft
+0,1,16,1287,False,[],"(11, 14)",Shaco,Blue,3,False,321.75,Normal Draft
+0,0,27,1402,True,[],"(4, 11)",Shyvana,Red,3,False,350.5,Normal Draft
+1,0,24,1636,False,[212421],"(11, 4)",Volibear,Blue,3,False,409.0,Normal Draft
+1,0,21,1526,False,[181963],"(11, 6)",Taric,Green,1,False,381.5,Normal Draft
+0,0,15,1085,True,[],"(14, 11)",Shaco,Blue,2,False,271.25,Normal Draft
+2,3,12,2001,True,"[64198, 132832]","(4, 11)",XinZhao,Blue,1,True,500.25,Normal Draft
+0,0,20,1227,False,[],"(4, 11)",Udyr,Blue,2,False,306.75,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",Lillia,Red,3,False,348.75,Ranked Solo/Duo
+0,1,28,1490,True,[],"(6, 11)",Udyr,Blue,3,False,372.5,Ranked Solo/Duo
+1,0,24,1641,True,[229253],"(4, 11)",Viego,Blue,4,False,410.25,Other
+0,0,24,1320,False,[],"(11, 4)",Zyra,Red,4,False,330.0,Other
+0,0,20,1226,True,[],"(11, 4)",Morgana,Red,1,False,306.5,Other
+0,1,27,1415,False,[],"(4, 11)",Lillia,Blue,2,False,353.75,Other
+0,0,24,1335,True,[],"(11, 4)",Kindred,Red,4,False,333.75,Ranked Flex
+0,1,24,1515,False,[],"(11, 4)",FiddleSticks,Red,4,False,378.75,Ranked Flex
+1,0,28,1695,False,[235238],"(4, 11)",Skarner,Blue,4,False,423.75,Ranked Solo/Duo
+0,1,24,1465,True,[],"(11, 4)",Brand,Red,4,False,366.25,Ranked Solo/Duo
+0,1,24,1447,True,[],"(11, 4)",Khazix,Blue,1,False,361.75,Ranked Flex
+0,0,20,1206,False,[],"(4, 11)",Pantheon,Red,1,False,301.5,Ranked Flex
+0,0,27,1381,False,[],"(11, 4)",Graves,Red,4,False,345.25,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Hecarim,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 6)",Nasus,Red,3,False,333.75,Ranked Flex
+1,0,24,1669,True,[164087],"(4, 11)",Amumu,Green,3,False,417.25,Ranked Flex
+0,0,16,1118,False,[],"(11, 4)",Ekko,No Item,3,False,279.5,Ranked Flex
+0,0,24,1354,True,[],"(11, 4)",Graves,Red,3,False,338.5,Ranked Flex
+0,1,12,1191,True,[],"(11, 4)",Nunu,Blue,3,False,297.75,Ranked Flex
+1,0,12,1340,False,[207488],"(11, 4)",Shaco,Red,3,False,335.0,Ranked Flex
+0,0,28,1395,False,[],"(11, 4)",Shyvana,Red,3,False,348.75,Ranked Solo/Duo
+0,0,24,1320,True,[],"(11, 4)",Vi,Red,3,False,330.0,Ranked Solo/Duo
+1,0,24,1755,True,[225396],"(4, 11)",Zac,Green,4,True,438.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(11, 6)",Hecarim,Blue,4,False,328.75,Ranked Solo/Duo
+1,0,24,1730,True,[155923],"(6, 11)",Hecarim,Blue,2,False,432.5,Ranked Solo/Duo
+0,0,23,1260,False,[],"(4, 11)",Sejuani,Green,3,False,315.0,Ranked Solo/Duo
+0,0,24,1355,True,[],"(11, 4)",Shyvana,Red,4,False,338.75,Ranked Solo/Duo
+0,0,16,1120,False,[],"(6, 11)",Rammus,Blue,4,False,280.0,Ranked Solo/Duo
+0,0,24,1340,True,[],"(11, 4)",Nocturne,Red,5,False,335.0,Ranked Solo/Duo
+0,1,26,1595,True,[],"(4, 11)",Ivern,Blue,4,False,398.75,Ranked Solo/Duo
+0,0,28,1409,False,[],"(4, 11)",Lillia,Blue,4,False,352.25,Ranked Solo/Duo
+1,0,24,1640,True,[88146],"(4, 11)",Elise,Red,2,False,410.0,Ranked Solo/Duo
+1,0,28,1715,False,[232749],"(11, 6)",Udyr,Blue,2,False,428.75,Ranked Solo/Duo
+0,0,28,1410,False,[],"(4, 11)",Amumu,Green,4,False,352.5,Ranked Solo/Duo
+0,0,12,1021,True,[],"(6, 11)",Gwen,Red,3,False,255.25,Ranked Solo/Duo
+0,0,24,1340,False,[],"(11, 4)",Nidalee,Red,1,False,335.0,Ranked Solo/Duo
+0,0,27,1378,True,[],"(11, 4)",Diana,Blue,2,False,344.5,Ranked Solo/Duo
+0,0,32,1456,False,[],"(11, 4)",LeeSin,Red,3,False,364.0,Ranked Solo/Duo
+0,1,20,1319,True,[],"(4, 11)",Briar,Blue,3,False,329.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(11, 4)",Morgana,Red,4,False,328.75,Ranked Solo/Duo
+0,0,28,1400,True,[],"(11, 4)",Khazix,Blue,4,False,350.0,Ranked Solo/Duo
+0,1,20,1400,True,[],"(11, 4)",Amumu,Red,3,False,350.0,Ranked Solo/Duo
+0,0,20,1211,False,[],"(4, 11)",Ivern,Blue,3,False,302.75,Ranked Solo/Duo
+0,0,20,1198,False,[],"(11, 4)",Viego,Blue,3,False,299.5,Normal Draft
+0,0,21,1359,True,[],"(11, 4)",Ivern,Blue,3,False,339.75,Normal Draft
+1,0,24,1735,False,[222703],"(11, 4)",Viego,Blue,4,True,433.75,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Rengar,Blue,4,False,348.75,Normal Draft
+0,1,28,1516,False,[],"(4, 11)",Zed,Red,4,False,379.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+0,1,28,1562,True,[],"(11, 6)",Olaf,Blue,3,False,390.5,Ranked Solo/Duo
+1,0,15,1576,False,[127724],"(4, 11)",MasterYi,Blue,2,True,394.0,Ranked Solo/Duo
+0,0,20,1196,False,[],"(11, 4)",Lillia,Blue,3,False,299.0,Ranked Solo/Duo
+1,1,16,1656,True,[171566],"(4, 11)",RekSai,Blue,3,True,414.0,Ranked Solo/Duo
+0,1,16,1293,False,[],"(11, 4)",Nunu,Blue,3,False,323.25,Normal Draft
+1,0,20,1516,True,[192646],"(11, 4)",Lillia,Blue,3,False,379.0,Normal Draft
+0,1,20,1306,False,[],"(4, 11)",Gangplank,Green,1,False,326.5,Ranked Flex
+0,1,12,1099,True,[],"(11, 4)",Belveth,Red,1,False,274.75,Ranked Flex
+0,0,16,1170,False,[],"(11, 4)",Poppy,Blue,3,False,292.5,Ranked Flex
+0,0,20,1305,True,[],"(11, 14)",Khazix,Blue,3,False,326.25,Ranked Flex
+2,1,19,2027,True,"[101263, 110917]","(4, 11)",Kayn,Blue,2,True,506.75,Ranked Solo/Duo
+0,0,8,974,False,[],"(11, 4)",Belveth,Blue,1,False,243.5,Ranked Solo/Duo
+0,0,16,1155,False,[],"(4, 11)",Rumble,Blue,3,False,288.75,Ranked Solo/Duo
+0,0,16,1101,True,[],"(4, 11)",Viego,Blue,3,False,275.25,Ranked Solo/Duo
+1,0,18,1637,False,[95465],"(4, 11)",Ivern,Blue,1,True,409.25,Ranked Solo/Duo
+0,0,28,1358,True,[],"(4, 11)",Vi,Blue,2,False,339.5,Ranked Solo/Duo
+2,0,6,1688,False,"[92394, 145291]","(4, 11)",LeeSin,Blue,1,True,422.0,Ranked Solo/Duo
+1,0,16,1478,True,[209199],"(11, 6)",Taliyah,Red,1,False,369.5,Ranked Solo/Duo
+0,0,11,1032,False,[],"(4, 11)",LeeSin,Blue,2,False,258.0,Ranked Solo/Duo
+2,0,20,1944,True,"[127528, 204931]","(4, 11)",Amumu,Green,2,True,486.0,Ranked Solo/Duo
+0,2,26,1513,False,[],"(11, 4)",Karthus,Red,2,False,378.25,Ranked Solo/Duo
+1,0,10,1456,True,[103971],"(4, 11)",LeeSin,Blue,1,True,364.0,Ranked Solo/Duo
+1,1,23,1820,True,[218706],"(11, 4)",Ekko,Blue,2,False,455.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Kayn,Green,2,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Udyr,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Elise,No Item,3,False,328.75,Ranked Solo/Duo
+1,1,12,1322,True,[157571],"(14, 11)",Shaco,Blue,2,False,330.5,Ranked Solo/Duo
+2,1,4,1600,False,"[193359, 224490]","(11, 4)",Graves,Red,1,False,400.0,Ranked Solo/Duo
+0,0,28,1539,True,[],"(4, 11)",Viego,Blue,1,False,384.75,Ranked Solo/Duo
+0,0,20,1201,False,[],"(11, 4)",Graves,Red,1,False,300.25,Ranked Solo/Duo
+0,0,0,500,True,[],"(6, 11)",Olaf,Blue,0,False,125.0,Normal Draft
+0,0,0,500,False,[],"(11, 4)",Lissandra,Green,0,False,125.0,Normal Draft
+1,0,24,1730,False,[225652],"(11, 4)",Sejuani,Green,4,True,432.5,Ranked Solo/Duo
+0,0,24,1315,True,[],"(11, 4)",Viego,Blue,4,False,328.75,Ranked Solo/Duo
+1,0,20,1526,False,[194154],"(4, 11)",Nocturne,Red,1,False,381.5,Ranked Solo/Duo
+0,2,16,1457,True,[],"(4, 11)",Kindred,Red,1,False,364.25,Ranked Solo/Duo
+0,0,27,1386,False,[],"(11, 4)",Viego,Green,4,False,346.5,Ranked Solo/Duo
+0,0,24,1335,True,[],"(4, 11)",Sylas,Blue,4,False,333.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Kayn,Red,4,False,348.75,Ranked Solo/Duo
+1,0,20,1660,True,[204334],"(11, 4)",Belveth,Blue,3,True,415.0,Ranked Solo/Duo
+1,0,28,1723,False,[238081],"(11, 4)",Viego,Green,4,False,430.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Hecarim,Blue,4,False,348.75,Ranked Solo/Duo
+1,1,20,1694,False,[226172],"(11, 14)",Shaco,Blue,3,False,423.5,Ranked Solo/Duo
+0,0,20,1206,True,[],"(11, 4)",Khazix,Blue,3,False,301.5,Ranked Solo/Duo
+0,0,28,1421,False,[],"(11, 4)",Khazix,Blue,3,False,355.25,Ranked Solo/Duo
+1,1,20,1774,True,[236050],"(4, 11)",LeeSin,Red,3,False,443.5,Ranked Solo/Duo
+1,0,12,1331,False,[191009],"(11, 14)",Shaco,Blue,3,False,332.75,Ranked Solo/Duo
+0,0,20,1232,True,[],"(4, 11)",Brand,Red,3,False,308.0,Ranked Solo/Duo
+0,0,20,1225,False,[],"(4, 11)",Lillia,Blue,3,False,306.25,Ranked Solo/Duo
+0,0,20,1303,True,[],"(11, 4)",Khazix,Red,3,False,325.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Graves,Red,4,False,333.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(6, 11)",Udyr,Blue,4,False,348.75,Ranked Solo/Duo
+0,1,24,1558,False,[],"(11, 4)",Zyra,Red,3,False,389.5,Ranked Solo/Duo
+0,0,24,1364,True,[],"(11, 4)",Zac,Blue,3,False,341.0,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Khazix,Blue,3,False,348.75,Ranked Solo/Duo
+1,0,20,1650,True,[162921],"(11, 4)",Belveth,Blue,3,True,412.5,Ranked Solo/Duo
+3,0,12,1989,False,"[170645, 175116, 194988]","(11, 4)",Poppy,Green,3,False,497.25,Ranked Solo/Duo
+1,0,23,1728,True,[167117],"(11, 14)",Talon,Blue,3,True,432.0,Ranked Solo/Duo
+0,0,28,1410,False,[],"(11, 4)",Udyr,Blue,3,False,352.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Kayn,Blue,3,False,348.75,Ranked Solo/Duo
+0,2,20,1393,True,[],"(4, 11)",Rumble,Blue,3,False,348.25,Ranked Solo/Duo
+1,0,24,1657,False,[195185],"(4, 11)",Karthus,Blue,3,False,414.25,Ranked Solo/Duo
+1,1,24,1735,True,[213067],"(11, 4)",Udyr,Red,2,False,433.75,Ranked Solo/Duo
+0,0,16,1140,False,[],"(4, 11)",Kayn,Green,1,False,285.0,Ranked Solo/Duo
+0,1,20,1331,False,[],"(4, 11)",Gragas,Blue,3,False,332.75,Ranked Solo/Duo
+0,0,20,1230,True,[],"(4, 11)",Kindred,Green,3,False,307.5,Ranked Solo/Duo
+2,0,24,1906,True,"[199085, 206684]","(11, 4)",Viego,Green,2,False,476.5,Ranked Solo/Duo
+1,0,18,1591,False,[94998],"(11, 4)",Briar,Red,1,True,397.75,Ranked Solo/Duo
+0,1,24,1485,True,[],"(4, 11)",Viego,Green,4,False,371.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Lillia,Green,4,False,348.75,Ranked Solo/Duo
+1,3,24,1796,True,[55663],"(4, 11)",JarvanIV,Blue,1,False,449.0,Ranked Solo/Duo
+0,1,20,1397,False,[],"(11, 4)",Skarner,Green,1,False,349.25,Ranked Solo/Duo
+0,1,28,1520,True,[],"(11, 3)",Karthus,Red,4,False,380.0,Ranked Solo/Duo
+0,0,20,1260,False,[],"(4, 11)",Rengar,Blue,3,False,315.0,Ranked Solo/Duo
+1,1,24,1723,False,[187848],"(4, 11)",Khazix,Blue,1,False,430.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Kindred,Blue,1,False,348.75,Ranked Solo/Duo
+0,0,19,1224,False,[],"(11, 4)",Viego,Blue,3,False,306.0,Ranked Solo/Duo
+0,0,24,1286,True,[],"(11, 4)",Warwick,Blue,3,False,321.5,Ranked Solo/Duo
+0,0,16,1145,True,[],"(11, 4)",Viego,Blue,3,False,286.25,Ranked Solo/Duo
+1,0,12,1430,False,[209391],"(4, 11)",Kindred,Green,3,False,357.5,Ranked Solo/Duo
+0,0,28,1415,True,[],"(4, 11)",Gragas,Blue,4,False,353.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Ekko,Blue,4,False,348.75,Ranked Solo/Duo
+1,0,20,1627,False,[166733],"(11, 4)",Zac,Blue,3,True,406.75,Ranked Solo/Duo
+1,0,15,1455,True,[175550],"(11, 4)",Shyvana,Blue,3,False,363.75,Ranked Solo/Duo
+0,2,28,1710,True,[],"(4, 11)",Kindred,Blue,4,False,427.5,Ranked Solo/Duo
+0,0,24,1335,False,[],"(6, 11)",Gwen,Blue,4,False,333.75,Ranked Solo/Duo
+0,0,16,1140,True,[],"(4, 11)",Zeri,Red,2,False,285.0,Ranked Solo/Duo
+1,0,16,1515,False,[180655],"(4, 11)",Ekko,Blue,2,False,378.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Vi,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1310,True,[],"(4, 11)",Belveth,Blue,4,True,327.5,Ranked Solo/Duo
+0,1,24,1447,True,[],"(11, 4)",Ekko,Blue,3,False,361.75,Ranked Solo/Duo
+0,1,16,1349,False,[],"(11, 4)",JarvanIV,Green,3,False,337.25,Ranked Solo/Duo
+0,0,28,1400,False,[],"(4, 11)",Shyvana,Blue,1,False,350.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Briar,Green,1,False,348.75,Ranked Solo/Duo
+0,0,24,1350,False,[],"(11, 4)",DrMundo,Green,1,False,337.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Lillia,Blue,2,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Zyra,Red,4,False,348.75,Ranked Solo/Duo
+0,0,20,1211,False,[],"(4, 11)",LeeSin,Blue,3,False,302.75,Ranked Solo/Duo
+1,0,20,1670,False,[168326],"(11, 4)",Talon,Green,3,True,417.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Briar,Blue,3,False,348.75,Ranked Solo/Duo
+1,1,20,1635,False,[161058],"(4, 11)",JarvanIV,Blue,2,False,408.75,Ranked Solo/Duo
+0,0,16,1170,True,[],"(11, 4)",Zac,Green,2,False,292.5,Ranked Solo/Duo
+0,0,20,1299,False,[],"(11, 4)",Zac,Green,3,False,324.75,Ranked Solo/Duo
+1,1,16,1611,True,[195228],"(11, 4)",Naafiri,Red,3,False,402.75,Ranked Solo/Duo
+1,0,28,1729,True,[216575],"(4, 11)",Nocturne,Red,2,False,432.25,Ranked Solo/Duo
+1,0,24,1669,False,[165771],"(4, 11)",Shyvana,Green,2,False,417.25,Ranked Solo/Duo
+0,0,16,1151,False,[],"(11, 4)",Briar,Green,2,False,287.75,Ranked Solo/Duo
+1,1,20,1695,True,[239919],"(4, 11)",Rammus,Green,3,False,423.75,Ranked Solo/Duo
+0,0,20,1245,False,[],"(11, 4)",Kayn,Blue,3,False,311.25,Ranked Solo/Duo
+0,0,12,1041,True,[],"(11, 4)",Lillia,Green,3,False,260.25,Ranked Solo/Duo
+0,1,28,1566,True,[],"(11, 4)",MasterYi,Blue,3,False,391.5,Ranked Solo/Duo
+0,0,24,1330,False,[],"(11, 14)",Shyvana,Red,3,False,332.5,Ranked Solo/Duo
+0,0,24,1320,False,[],"(6, 11)",Hecarim,Blue,4,False,330.0,Ranked Solo/Duo
+0,1,22,1425,True,[],"(4, 11)",Ivern,Green,4,False,356.25,Ranked Solo/Duo
+1,0,24,1635,True,[224187],"(4, 11)",Amumu,Green,4,False,408.75,Ranked Solo/Duo
+0,0,24,1345,False,[],"(4, 11)",Brand,Blue,4,False,336.25,Ranked Solo/Duo
+0,1,4,925,False,[],"(4, 11)",Khazix,Red,1,False,231.25,Ranked Solo/Duo
+0,1,24,1355,True,[],"(4, 11)",Viego,Blue,1,False,338.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 6)",Udyr,Blue,1,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(4, 11)",Vi,Blue,1,False,333.75,Ranked Solo/Duo
+2,1,16,1846,False,"[175762, 227197]","(11, 4)",Viego,No Item,1,False,461.5,Ranked Solo/Duo
+0,0,18,1181,True,[],"(4, 11)",Gragas,Red,1,False,295.25,Ranked Solo/Duo
+2,2,24,2003,True,"[221181, 224154]","(11, 4)",Brand,Red,2,False,500.75,Ranked Flex
+1,0,16,1536,False,[215069],"(11, 4)",RekSai,Red,1,False,384.0,Ranked Flex
+0,0,24,1314,False,[],"(11, 4)",Zyra,Blue,4,False,328.5,Ranked Flex
+0,0,24,1315,True,[],"(4, 11)",Viego,Blue,4,False,328.75,Ranked Flex
+0,0,24,1315,False,[],"(11, 4)",Viego,Blue,2,False,328.75,Ranked Flex
+1,0,16,1500,True,[167084],"(11, 4)",Gragas,Red,2,False,375.0,Ranked Flex
+1,0,24,1615,False,[239759],"(4, 11)",Nocturne,Red,3,False,403.75,Ranked Flex
+1,0,20,1526,True,[216448],"(4, 11)",Nidalee,Red,3,False,381.5,Ranked Flex
+1,0,28,1715,False,[176702],"(4, 11)",Shyvana,Red,3,False,428.75,Ranked Flex
+0,1,16,1290,True,[],"(11, 4)",Udyr,Blue,3,False,322.5,Ranked Flex
+0,0,28,1395,False,[],"(11, 4)",Lillia,Blue,3,False,348.75,Ranked Flex
+1,0,28,1683,True,[215957],"(6, 11)",Hecarim,Blue,3,False,420.75,Ranked Flex
+0,1,24,1440,False,[],"(4, 11)",Brand,Blue,3,False,360.0,Ranked Solo/Duo
+0,0,15,1137,True,[],"(4, 11)",Pantheon,Red,3,False,284.25,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Viego,Blue,2,False,348.75,Normal Draft
+0,0,20,1226,False,[],"(4, 11)",LeeSin,Red,1,False,306.5,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Udyr,Blue,3,False,348.75,Normal Draft
+1,0,16,1541,False,[127376],"(6, 11)",Warwick,Green,3,True,385.25,Normal Draft
+0,0,16,1131,False,[],"(4, 11)",Ekko,Red,3,False,282.75,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Viego,Blue,4,False,348.75,Normal Draft
+0,0,24,1306,False,[],"(11, 6)",Jax,Green,3,False,326.5,Normal Draft
+0,0,14,1070,True,[],"(4, 11)",Briar,Green,3,False,267.5,Normal Draft
+0,0,24,1335,True,[],"(11, 4)",Viego,Red,4,False,333.75,Ranked Flex
+0,0,16,1170,False,[],"(4, 11)",Evelynn,Blue,3,False,292.5,Ranked Flex
+0,1,6,952,False,[],"(11, 4)",Nocturne,No Item,1,False,238.0,Ranked Flex
+0,0,24,1310,True,[],"(6, 11)",Hecarim,Blue,1,False,327.5,Ranked Flex
+0,0,24,1335,True,[],"(4, 11)",Gragas,Blue,3,False,333.75,Ranked Flex
+1,0,20,1546,False,[165847],"(4, 11)",Warwick,Blue,3,False,386.5,Ranked Flex
+0,0,18,1171,False,[],"(11, 4)",Kindred,Green,2,False,292.75,Ranked Solo/Duo
+0,1,24,1412,True,[],"(11, 4)",Karthus,Blue,3,False,353.0,Ranked Solo/Duo
+0,1,14,1324,False,[],"(11, 4)",Khazix,No Item,2,False,331.0,Ranked Solo/Duo
+0,1,17,1425,True,[],"(4, 11)",Taliyah,Red,3,False,356.25,Ranked Solo/Duo
+0,0,20,1225,False,[],"(11, 4)",Talon,Blue,1,False,306.25,Ranked Solo/Duo
+0,1,20,1454,True,[],"(4, 11)",Taliyah,Red,1,False,363.5,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Viego,Green,4,False,328.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Shyvana,Blue,5,False,348.75,Ranked Solo/Duo
+0,0,24,1315,True,[],"(11, 4)",Rumble,Red,3,False,328.75,Ranked Solo/Duo
+1,1,20,1819,False,[217928],"(11, 4)",Belveth,Blue,3,False,454.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Khazix,Blue,4,False,348.75,Ranked Solo/Duo
+1,0,24,1755,True,[196223],"(11, 4)",Shyvana,Blue,4,True,438.75,Ranked Solo/Duo
+0,0,15,1156,False,[],"(11, 4)",RekSai,Red,3,False,289.0,Ranked Solo/Duo
+1,0,24,1615,True,[211983],"(11, 4)",Shaco,Red,4,False,403.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Shyvana,Red,2,False,348.75,Ranked Solo/Duo
+1,1,28,1850,True,[234730],"(11, 4)",MasterYi,Blue,2,False,462.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+0,1,24,1486,False,[],"(11, 4)",Zac,Green,4,False,371.5,Ranked Solo/Duo
+0,0,28,1401,False,[],"(11, 4)",Shyvana,Red,3,False,350.25,Ranked Solo/Duo
+1,0,12,1480,True,[173614],"(11, 4)",Warwick,Blue,3,True,370.0,Ranked Solo/Duo
+0,0,20,1196,False,[],"(4, 11)",Shyvana,Red,3,False,299.0,Ranked Solo/Duo
+1,0,16,1495,True,[227402],"(11, 4)",Khazix,Blue,3,False,373.75,Ranked Solo/Duo
+0,0,12,1051,True,[],"(11, 4)",Amumu,Green,2,False,262.75,Ranked Solo/Duo
+1,0,20,1528,False,[134118],"(11, 4)",JarvanIV,Green,2,False,382.0,Ranked Solo/Duo
+2,0,24,1950,True,"[184920, 198181]","(4, 11)",Graves,Red,3,False,487.5,Ranked Solo/Duo
+0,0,20,1196,False,[],"(11, 4)",Briar,Green,3,False,299.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Shyvana,Red,3,False,348.75,Ranked Solo/Duo
+0,1,20,1415,False,[],"(11, 4)",Kayn,Red,3,False,353.75,Ranked Solo/Duo
+1,1,16,1630,False,[178131],"(11, 4)",Warwick,Red,3,False,407.5,Normal Draft
+1,0,12,1460,True,[166699],"(4, 11)",Belveth,Blue,3,True,365.0,Normal Draft
+0,0,28,1395,False,[],"(6, 11)",Udyr,Blue,3,False,348.75,Normal Draft
+0,0,28,1395,True,[],"(4, 11)",Lillia,Blue,3,False,348.75,Normal Draft
+0,0,28,1395,False,[],"(14, 11)",Talon,Blue,4,False,348.75,Normal Draft
+0,0,28,1395,True,[],"(4, 11)",Amumu,Green,4,False,348.75,Normal Draft
+0,0,0,500,True,[],"(6, 11)",Hecarim,Blue,0,False,125.0,Ranked Solo/Duo
+0,0,0,500,False,[],"(11, 6)",Udyr,No Item,0,False,125.0,Ranked Solo/Duo
+0,0,20,1196,False,[],"(4, 11)",Zac,Blue,2,False,299.0,Ranked Solo/Duo
+0,0,31,1462,True,[],"(11, 4)",Shyvana,Red,2,False,365.5,Ranked Solo/Duo
+0,0,19,1207,False,[],"(4, 11)",Rengar,Red,3,False,301.75,Ranked Solo/Duo
+0,0,32,1475,True,[],"(11, 6)",Udyr,Blue,3,False,368.75,Ranked Solo/Duo
+2,0,24,1915,True,"[217560, 234940]","(11, 4)",Morgana,Blue,3,False,478.75,Ranked Solo/Duo
+0,0,12,1040,False,[],"(11, 4)",Briar,No Item,3,False,260.0,Ranked Solo/Duo
+0,0,26,1395,True,[],"(11, 4)",Ivern,No Item,4,False,348.75,Ranked Solo/Duo
+0,1,24,1535,False,[],"(11, 4)",Udyr,Blue,4,False,383.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Lillia,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 6)",Rammus,Blue,4,False,333.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 6)",MasterYi,Blue,2,False,348.75,Normal Draft
+1,1,20,1572,False,[176629],"(4, 11)",Elise,Red,1,False,393.0,Normal Draft
+0,0,24,1335,False,[],"(4, 11)",Nidalee,Red,1,False,333.75,Normal Draft
+1,0,28,1688,True,[236097],"(4, 11)",Udyr,Blue,2,False,422.0,Normal Draft
+0,0,20,1226,True,[],"(4, 11)",JarvanIV,Green,3,False,306.5,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",Vi,No Item,3,False,348.75,Normal Draft
+0,1,12,1232,False,[],"(4, 11)",Viego,Blue,1,False,308.0,Normal Draft
+0,0,12,1041,True,[],"(11, 4)",Nunu,Blue,1,False,260.25,Normal Draft
+0,0,24,1335,True,[],"(4, 11)",Ekko,Red,4,False,333.75,Normal Draft
+1,0,24,1635,False,[231505],"(11, 4)",LeeSin,Red,4,False,408.75,Normal Draft
+0,2,24,1533,True,[],"(11, 4)",Ekko,Blue,3,False,383.25,Normal Draft
+0,0,20,1226,False,[],"(11, 4)",Poppy,Blue,3,False,306.5,Normal Draft
+0,0,20,1225,False,[],"(11, 4)",Warwick,Blue,5,False,306.25,Normal Draft
+0,0,27,1381,True,[],"(4, 11)",Vayne,Blue,5,False,345.25,Normal Draft
+0,0,28,1375,False,[],"(4, 11)",Shyvana,Blue,3,False,343.75,Normal Draft
+0,0,26,1301,True,[],"(11, 4)",Warwick,Blue,3,False,325.25,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",LeeSin,Red,4,False,348.75,Normal Draft
+0,0,24,1356,True,[],"(4, 11)",Gangplank,Red,4,False,339.0,Normal Draft
+2,1,28,2029,True,"[216672, 232971]","(3, 11)",Karthus,Red,2,False,507.25,Normal Draft
+0,0,20,1206,False,[],"(11, 4)",Sylas,Blue,2,False,301.5,Normal Draft
+0,0,20,1225,True,[],"(11, 4)",Kayn,Blue,3,False,306.25,Ranked Solo/Duo
+1,0,20,1691,False,[211090],"(11, 4)",Khazix,Blue,4,True,422.75,Ranked Solo/Duo
+1,0,18,1483,True,[196423],"(11, 4)",Volibear,Blue,1,False,370.75,Ranked Solo/Duo
+0,1,16,1205,False,[],"(4, 11)",Amumu,Green,1,False,301.25,Ranked Solo/Duo
+1,0,27,1687,True,[238101],"(4, 11)",Brand,Red,2,False,421.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Udyr,Blue,2,False,348.75,Ranked Solo/Duo
+1,1,16,1465,False,[181505],"(4, 11)",Warwick,Blue,1,False,366.25,Ranked Solo/Duo
+1,0,28,1725,True,[208734],"(11, 4)",Karthus,Red,1,False,431.25,Ranked Solo/Duo
+1,0,12,1440,False,[172892],"(11, 4)",Poppy,Green,3,True,360.0,Ranked Solo/Duo
+1,0,24,1636,True,[201516],"(4, 11)",MasterYi,Blue,3,False,409.0,Ranked Solo/Duo
+0,0,32,1461,True,[],"(4, 11)",MasterYi,Blue,4,False,365.25,Ranked Solo/Duo
+0,0,24,1329,False,[],"(4, 11)",Udyr,Blue,4,False,332.25,Ranked Solo/Duo
+1,1,24,1686,False,[238374],"(4, 11)",Sejuani,Green,1,False,421.5,Ranked Solo/Duo
+2,0,12,1681,True,"[68315, 86551]","(11, 4)",Nidalee,Red,1,False,420.25,Ranked Solo/Duo
+0,0,24,1305,True,[],"(11, 4)",Udyr,Blue,3,False,326.25,Ranked Solo/Duo
+0,0,24,1316,False,[],"(11, 4)",Khazix,Blue,3,False,329.0,Ranked Solo/Duo
+0,0,16,1165,False,[],"(11, 4)",Kayn,Green,2,False,291.25,Normal Draft
+1,0,23,1691,True,[75453],"(4, 11)",MasterYi,Blue,1,False,422.75,Normal Draft
+1,0,12,1390,True,[227439],"(4, 11)",Taliyah,Red,3,False,347.5,Ranked Solo/Duo
+1,0,16,1587,False,[178324],"(4, 11)",LeeSin,Blue,3,True,396.75,Ranked Solo/Duo
+0,1,16,1310,False,[],"(4, 11)",Kindred,Red,3,False,327.5,Ranked Solo/Duo
+0,1,20,1320,True,[],"(4, 11)",Vi,Blue,3,False,330.0,Ranked Solo/Duo
+0,0,24,1325,True,[],"(11, 4)",Lillia,Blue,2,False,331.25,Ranked Solo/Duo
+2,2,20,2064,False,"[68166, 87238]","(11, 4)",Udyr,Blue,2,True,516.0,Ranked Solo/Duo
+0,0,24,1271,True,[],"(6, 11)",Hecarim,Blue,2,False,317.75,Ranked Solo/Duo
+0,1,24,1388,False,[],"(11, 4)",Rengar,Blue,2,False,347.0,Ranked Solo/Duo
+0,0,24,1315,True,[],"(11, 6)",Rammus,Blue,4,False,328.75,Ranked Solo/Duo
+1,0,24,1735,False,[220765],"(6, 11)",Hecarim,Blue,4,True,433.75,Ranked Solo/Duo
+1,0,23,1736,False,[230262],"(4, 11)",Shyvana,Red,4,True,434.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Diana,Red,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Nidalee,Red,3,False,348.75,Ranked Solo/Duo
+0,0,24,1385,False,[],"(11, 4)",Shyvana,Red,3,False,346.25,Ranked Solo/Duo
+0,1,28,1565,False,[],"(11, 4)",LeeSin,Red,3,False,391.25,Ranked Solo/Duo
+0,0,24,1315,True,[],"(11, 4)",Khazix,Red,3,False,328.75,Ranked Solo/Duo
+1,0,28,1845,True,[47289],"(3, 11)",Karthus,Red,1,True,461.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Rengar,Blue,1,False,348.75,Ranked Solo/Duo
+0,0,24,1291,True,[],"(4, 11)",Taliyah,Red,3,False,322.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",JarvanIV,Green,3,False,348.75,Ranked Solo/Duo
+1,0,24,1700,True,[161702],"(4, 11)",Briar,Green,3,False,425.0,Ranked Solo/Duo
+2,0,16,1871,False,"[162571, 228916]","(11, 4)",Brand,Red,3,False,467.75,Ranked Solo/Duo
+0,0,28,1400,False,[],"(4, 11)",Karthus,Blue,4,False,350.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Belveth,Red,4,False,348.75,Ranked Solo/Duo
+1,1,24,1751,True,[227874],"(11, 4)",Viego,Blue,3,False,437.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Nidalee,Red,3,False,333.75,Ranked Solo/Duo
+0,0,28,1400,False,[],"(11, 4)",Zed,Red,3,False,350.0,Normal Draft
+0,0,28,1395,True,[],"(3, 11)",Karthus,Red,3,False,348.75,Normal Draft
+1,1,20,1801,False,[66205],"(11, 4)",Khazix,Blue,2,True,450.25,Normal Draft
+1,1,24,1692,True,[215597],"(11, 4)",Rengar,Blue,2,False,423.0,Normal Draft
+0,0,28,1395,False,[],"(4, 11)",Viego,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,24,1375,True,[],"(4, 11)",Khazix,Blue,3,False,343.75,Ranked Solo/Duo
+1,0,28,1815,True,[232111],"(14, 11)",Talon,Blue,4,True,453.75,Normal Draft
+0,0,24,1315,False,[],"(11, 4)",Skarner,Green,4,False,328.75,Normal Draft
+0,0,16,1140,False,[],"(11, 4)",XinZhao,Blue,3,True,285.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Ekko,No Item,4,False,348.75,Ranked Solo/Duo
+1,0,16,1627,False,[180003],"(11, 4)",Khazix,Red,3,False,406.75,Ranked Solo/Duo
+1,1,20,1646,True,[165230],"(4, 11)",Nunu,Blue,3,True,411.5,Ranked Solo/Duo
+1,0,12,1463,False,[174718],"(11, 4)",Rammus,Green,3,True,365.75,Ranked Solo/Duo
+1,0,24,1638,True,[208542],"(11, 4)",Viego,Blue,3,False,409.5,Ranked Solo/Duo
+0,0,26,1395,True,[],"(11, 4)",Ivern,Blue,3,False,348.75,Ranked Solo/Duo
+0,1,28,1529,False,[],"(3, 11)",Karthus,Red,3,False,382.25,Ranked Solo/Duo
+1,2,12,1634,True,[176448],"(11, 4)",Elise,Red,3,False,408.5,Ranked Solo/Duo
+0,0,23,1287,False,[],"(11, 4)",Graves,Red,3,False,321.75,Ranked Solo/Duo
+1,0,28,1829,True,[80358],"(11, 4)",Nocturne,Red,2,True,457.25,Ranked Solo/Duo
+0,0,24,1330,False,[],"(11, 4)",Poppy,Blue,2,False,332.5,Ranked Solo/Duo
+0,1,24,1498,True,[],"(11, 4)",Nidalee,Red,4,False,374.5,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Rengar,Blue,4,False,348.75,Ranked Solo/Duo
+2,0,28,2147,False,"[200784, 202413]","(11, 4)",Khazix,Red,2,False,536.75,Ranked Solo/Duo
+0,1,24,1547,True,[],"(11, 4)",Lillia,Blue,2,False,386.75,Ranked Solo/Duo
+2,0,16,1860,False,"[168639, 222576]","(11, 4)",Vi,Blue,3,True,465.0,Ranked Solo/Duo
+0,0,20,1206,True,[],"(11, 4)",Amumu,Green,3,False,301.5,Ranked Solo/Duo
+0,0,24,1335,False,[],"(11, 4)",Zac,No Item,1,False,333.75,Ranked Solo/Duo
+0,2,24,1678,True,[],"(11, 4)",Viego,Blue,1,False,419.5,Ranked Solo/Duo
+1,0,20,1686,True,[176794],"(4, 11)",Viego,Blue,3,True,421.5,Ranked Solo/Duo
+2,0,24,1969,False,"[227374, 239356]","(4, 11)",Lillia,Green,3,False,492.25,Ranked Solo/Duo
+0,0,21,1332,False,[],"(11, 4)",MasterYi,Blue,3,False,333.0,Ranked Solo/Duo
+0,1,26,1521,True,[],"(4, 11)",Rammus,Green,3,False,380.25,Ranked Solo/Duo
+2,0,24,1980,True,"[228986, 237870]","(11, 6)",Hecarim,Blue,1,False,495.0,Ranked Solo/Duo
+1,2,16,1927,False,[80765],"(11, 4)",Kayn,Blue,2,False,481.75,Ranked Solo/Duo
+1,0,20,1706,False,[165583],"(11, 4)",Sylas,Blue,3,True,426.5,Ranked Solo/Duo
+0,0,28,1415,True,[],"(11, 4)",Udyr,Blue,3,False,353.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Vayne,Red,3,False,348.75,Normal Draft
+0,1,24,1485,False,[],"(4, 11)",Nocturne,Red,3,False,371.25,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",Sett,Blue,2,False,348.75,Normal Draft
+1,1,20,1707,True,[233118],"(11, 4)",Briar,Green,2,False,426.75,Normal Draft
+0,0,28,1395,True,[],"(3, 11)",Karthus,Red,4,False,348.75,Normal Draft
+0,0,24,1286,False,[],"(6, 11)",Hecarim,Blue,4,True,321.5,Normal Draft
+0,0,16,1116,False,[],"(6, 11)",Nunu,Red,3,False,279.0,Ranked Flex
+0,0,16,1126,True,[],"(11, 4)",Zyra,Red,3,False,281.5,Ranked Flex
+1,0,24,1791,True,[66172],"(11, 4)",Nidalee,Red,2,True,447.75,Ranked Solo/Duo
+0,0,24,1345,False,[],"(6, 11)",Khazix,Blue,2,False,336.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",Belveth,Green,3,False,348.75,Ranked Flex
+0,0,28,1395,True,[],"(11, 4)",Viego,Blue,3,False,348.75,Ranked Flex
+0,0,28,1397,False,[],"(11, 6)",Yorick,Blue,3,False,349.25,Ranked Flex
+0,0,28,1392,True,[],"(11, 4)",Nocturne,Red,3,False,348.0,Ranked Flex
+1,0,16,1565,False,[186922],"(11, 4)",Jax,Blue,3,True,391.25,Ranked Flex
+2,0,24,1951,True,"[189300, 193733]","(4, 11)",Lillia,Green,4,False,487.75,Ranked Flex
+0,0,12,1046,False,[],"(11, 4)",Briar,Red,2,False,261.5,Ranked Flex
+0,1,24,1404,True,[],"(4, 11)",Lillia,Green,3,False,351.0,Ranked Flex
+0,1,23,1397,False,[],"(11, 4)",Vi,Green,1,False,349.25,Ranked Flex
+0,3,24,1448,True,[],"(4, 11)",Lillia,Green,1,False,362.0,Ranked Flex
+0,0,28,1400,False,[],"(4, 11)",Shyvana,Red,1,False,350.0,Ranked Flex
+1,1,28,1733,True,[225515],"(4, 11)",Lillia,Green,1,False,433.25,Ranked Flex
+0,0,20,1266,False,[],"(4, 11)",Zyra,Red,3,False,316.5,Ranked Solo/Duo
+1,0,16,1419,True,[185325],"(11, 4)",Sejuani,Green,3,False,354.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Evelynn,Blue,4,False,348.75,Ranked Flex
+0,1,24,1435,True,[],"(11, 6)",Udyr,Blue,4,False,358.75,Ranked Flex
+0,0,20,1230,False,[],"(11, 4)",Lillia,No Item,3,False,307.5,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Shyvana,Blue,4,False,348.75,Normal Draft
+0,0,24,1312,True,[],"(4, 11)",Nidalee,Red,2,False,328.0,Normal Draft
+0,0,28,1392,False,[],"(4, 11)",Talon,Red,2,False,348.0,Normal Draft
+1,0,16,1475,False,[156677],"(11, 4)",Volibear,Red,2,False,368.75,Normal Draft
+0,1,24,1541,True,[],"(11, 4)",Briar,Green,2,False,385.25,Normal Draft
+0,0,28,1395,False,[],"(11, 4)",Amumu,Green,3,False,348.75,Normal Draft
+0,0,28,1395,True,[],"(4, 11)",Udyr,Blue,3,False,348.75,Normal Draft
+1,0,24,1622,True,[163935],"(4, 11)",Kayn,Green,2,False,405.5,Normal Draft
+0,0,20,1315,False,[],"(4, 11)",Ekko,No Item,2,False,328.75,Normal Draft
+0,0,16,1140,False,[],"(4, 11)",Viego,Red,2,False,285.0,Normal Draft
+0,0,24,1315,True,[],"(4, 11)",Briar,Green,2,False,328.75,Normal Draft
+0,0,12,1080,False,[],"(4, 11)",Brand,Blue,1,False,270.0,Normal Draft
+1,1,16,1646,True,[55526],"(4, 11)",LeeSin,Red,1,True,411.5,Normal Draft
+0,0,24,1286,False,[],"(11, 4)",Ornn,Green,3,False,321.5,Normal Draft
+1,0,20,1559,True,[163964],"(4, 11)",Evelynn,Red,3,False,389.75,Normal Draft
+0,1,4,1000,False,[],"(4, 11)",Ekko,No Item,1,False,250.0,Normal Draft
+2,0,12,1781,True,"[134736, 178927]","(11, 14)",Shaco,Blue,2,True,445.25,Normal Draft
+0,0,24,1363,False,[],"(4, 11)",Brand,Red,4,False,340.75,Ranked Solo/Duo
+0,1,24,1539,True,[],"(4, 11)",Nunu,Blue,4,False,384.75,Ranked Solo/Duo
+1,0,24,1626,True,[180314],"(4, 11)",Khazix,Blue,3,False,406.5,Ranked Solo/Duo
+1,0,20,1650,False,[178529],"(4, 11)",Lillia,Blue,3,True,412.5,Ranked Solo/Duo
+0,0,23,1293,True,[],"(4, 11)",Kayn,Red,4,False,323.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Zyra,Red,4,False,348.75,Ranked Solo/Duo
+0,2,20,1335,True,[],"(11, 4)",Evelynn,No Item,1,False,333.75,Ranked Solo/Duo
+1,0,19,1560,False,[96483],"(4, 11)",Kayn,Blue,1,False,390.0,Ranked Solo/Duo
+0,0,20,1201,False,[],"(11, 4)",Kayn,Blue,1,False,300.25,Ranked Solo/Duo
+3,0,12,2377,True,"[106122, 113136, 227331]","(11, 4)",Viego,Blue,1,True,594.25,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Lillia,Blue,4,False,328.75,Ranked Solo/Duo
+0,0,24,1286,False,[],"(11, 4)",Shyvana,Red,3,False,321.5,Ranked Solo/Duo
+1,0,24,1735,True,[216068],"(11, 4)",Amumu,Green,4,True,433.75,Ranked Solo/Duo
+1,0,24,1645,False,[228927],"(11, 4)",Zac,Red,4,False,411.25,Ranked Solo/Duo
+0,0,24,1335,True,[],"(11, 4)",Nasus,Blue,3,False,333.75,Ranked Solo/Duo
+0,1,20,1516,False,[],"(11, 4)",Zac,No Item,3,False,379.0,Ranked Solo/Duo
+0,0,16,1150,False,[],"(11, 4)",Vi,Red,3,False,287.5,Ranked Solo/Duo
+1,1,20,1735,True,[216638],"(4, 11)",XinZhao,Blue,3,True,433.75,Ranked Solo/Duo
+0,0,14,1080,False,[],"(11, 4)",RekSai,Red,2,False,270.0,Ranked Solo/Duo
+1,0,24,1650,True,[164050],"(4, 11)",Lillia,Blue,3,False,412.5,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Amumu,Green,3,False,328.75,Other
+0,0,24,1315,False,[],"(4, 11)",Sejuani,Green,3,False,328.75,Other
+0,1,28,1490,False,[],"(4, 11)",Viego,Red,3,False,372.5,Other
+0,0,20,1226,True,[],"(4, 11)",LeeSin,Blue,3,False,306.5,Other
+0,0,28,1395,True,[],"(4, 11)",Graves,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,24,1335,False,[],"(6, 11)",Udyr,Green,4,False,333.75,Ranked Solo/Duo
+1,0,16,1467,True,[158159],"(11, 4)",Khazix,Blue,3,False,366.75,Ranked Flex
+1,0,24,1655,False,[156289],"(4, 11)",Zed,Red,3,False,413.75,Ranked Flex
+0,0,28,1395,False,[],"(11, 4)",Lillia,Red,3,False,348.75,Ranked Flex
+0,0,24,1335,True,[],"(4, 11)",Nautilus,Red,3,False,333.75,Ranked Flex
+1,1,24,1954,True,[207993],"(4, 11)",Nidalee,Blue,4,True,488.5,Ranked Solo/Duo
+0,0,20,1206,False,[],"(11, 6)",Gwen,Red,3,False,301.5,Ranked Solo/Duo
+0,0,16,1121,False,[],"(11, 4)",Ivern,Blue,1,False,280.25,Ranked Flex
+0,0,28,1395,True,[],"(11, 4)",Shyvana,Red,2,False,348.75,Ranked Flex
+0,0,20,1255,False,[],"(11, 4)",JarvanIV,Red,3,False,313.75,Ranked Flex
+1,2,12,1842,True,[169690],"(11, 4)",Khazix,Red,3,True,460.5,Ranked Flex
+0,0,24,1291,True,[],"(11, 4)",JarvanIV,Red,5,False,322.75,Ranked Flex
+0,0,16,1126,False,[],"(11, 4)",Volibear,No Item,5,False,281.5,Ranked Flex
+0,0,24,1315,True,[],"(4, 11)",Rengar,Blue,1,False,328.75,Ranked Flex
+0,1,28,1534,False,[],"(11, 4)",Zyra,Red,1,False,383.5,Ranked Flex
+0,1,16,1230,False,[],"(4, 11)",Volibear,Blue,3,False,307.5,Normal Draft
+0,1,24,1471,True,[],"(4, 11)",Warwick,Red,3,False,367.75,Normal Draft
+0,0,20,1240,False,[],"(4, 11)",Sylas,Green,3,False,310.0,Normal Draft
+1,0,20,1578,True,[202892],"(4, 11)",Warwick,Red,3,False,394.5,Normal Draft
+0,0,16,1126,False,[],"(4, 11)",Briar,Blue,1,False,281.5,Normal Draft
+1,0,20,1586,True,[124553],"(4, 11)",Kayn,Blue,2,False,396.5,Normal Draft
+0,0,28,1395,True,[],"(11, 4)",Shyvana,Red,4,False,348.75,Ranked Solo/Duo
+0,0,24,1315,False,[],"(4, 11)",Zac,Green,4,False,328.75,Ranked Solo/Duo
+0,1,20,1405,False,[],"(4, 11)",Graves,Red,3,False,351.25,Normal Draft
+0,0,24,1328,True,[],"(11, 4)",Kayn,Red,3,False,332.0,Normal Draft
+1,0,20,1546,True,[181296],"(11, 4)",Khazix,Blue,3,False,386.5,Normal Draft
+0,1,16,1206,False,[],"(4, 11)",LeeSin,Red,3,False,301.5,Normal Draft
+1,0,28,1715,False,[235262],"(11, 4)",Lillia,Red,3,False,428.75,Normal Draft
+0,0,24,1315,True,[],"(6, 11)",Udyr,Blue,3,False,328.75,Normal Draft
+1,0,28,1715,False,[216729],"(4, 11)",Lillia,Blue,2,False,428.75,Normal Draft
+0,0,20,1206,True,[],"(4, 11)",Viego,Red,2,False,301.5,Normal Draft
+0,0,28,1395,False,[],"(4, 11)",Amumu,Green,2,False,348.75,Normal Draft
+0,0,16,1170,True,[],"(11, 4)",Graves,Red,2,False,292.5,Normal Draft
+0,0,24,1335,False,[],"(4, 11)",XinZhao,Blue,3,False,333.75,Ranked Solo/Duo
+1,0,28,1742,True,[222522],"(11, 4)",Sylas,Blue,3,False,435.5,Ranked Solo/Duo
+0,0,24,1340,False,[],"(11, 4)",Shyvana,Red,4,False,335.0,Ranked Solo/Duo
+0,0,28,1395,True,[],"(11, 4)",Kayn,Blue,4,False,348.75,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Nocturne,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Viego,Red,3,False,348.75,Ranked Solo/Duo
+1,1,20,1727,True,[176497],"(11, 4)",Nunu,Blue,3,True,431.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(6, 11)",Olaf,Red,3,False,348.75,Ranked Solo/Duo
+1,0,16,1603,False,[192555],"(11, 4)",Warwick,No Item,3,True,400.75,Ranked Solo/Duo
+0,1,20,1399,True,[],"(6, 11)",Olaf,Red,4,False,349.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(4, 11)",Lillia,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,24,1315,True,[],"(4, 11)",Shyvana,Blue,3,False,328.75,Ranked Solo/Duo
+1,0,24,1700,True,[205399],"(11, 3)",Yorick,Red,4,True,425.0,Ranked Solo/Duo
+0,0,28,1410,False,[],"(4, 11)",Viego,Blue,4,False,352.5,Ranked Solo/Duo
+0,1,20,1308,False,[],"(6, 11)",Volibear,Green,3,False,327.0,Ranked Solo/Duo
+0,0,28,1376,True,[],"(4, 11)",Shyvana,Red,3,False,344.0,Ranked Solo/Duo
+0,0,23,1302,True,[],"(11, 4)",Kindred,Green,4,False,325.5,Ranked Solo/Duo
+0,0,0,871,False,[],"(1, 21)",Ashe,No Item,2,False,217.75,Ranked Solo/Duo
+1,0,24,1665,True,[235873],"(11, 4)",Brand,Red,3,False,416.25,Ranked Solo/Duo
+0,0,28,1392,False,[],"(4, 11)",MasterYi,Red,3,False,348.0,Ranked Solo/Duo
+1,0,28,1695,True,[223522],"(3, 11)",Karthus,Red,2,False,423.75,Ranked Solo/Duo
+1,1,24,1785,False,[87913],"(11, 6)",Khazix,Blue,2,False,446.25,Ranked Solo/Duo
+1,2,24,1833,True,[197304],"(4, 11)",Lillia,Blue,1,False,458.25,Ranked Solo/Duo
+0,0,12,1063,False,[],"(4, 11)",JarvanIV,Green,1,False,265.75,Ranked Solo/Duo
+1,0,16,1441,False,[192130],"(11, 4)",Nocturne,Green,3,False,360.25,Ranked Solo/Duo
+2,0,16,1755,True,"[164922, 215122]","(11, 4)",Ekko,Red,3,False,438.75,Ranked Solo/Duo
+1,0,16,1465,True,[206210],"(11, 4)",Viego,Blue,2,False,366.25,Ranked Solo/Duo
+0,0,28,1395,False,[],"(11, 4)",MasterYi,Blue,2,False,348.75,Ranked Solo/Duo
+2,2,12,2036,True,"[142035, 225174]","(11, 4)",MasterYi,Green,1,False,509.0,Ranked Solo/Duo
+0,0,12,1056,False,[],"(4, 11)",Nidalee,Red,1,False,264.0,Ranked Solo/Duo
+1,0,16,1460,True,[187418],"(11, 14)",Talon,Blue,2,False,365.0,Ranked Solo/Duo
+0,0,27,1377,False,[],"(4, 11)",Kindred,Red,2,False,344.25,Ranked Solo/Duo
+0,1,8,1110,False,[],"(11, 4)",RekSai,Green,2,False,277.5,Ranked Solo/Duo
+1,1,15,1838,True,[155373],"(11, 4)",Khazix,Blue,2,True,459.5,Ranked Solo/Duo
+0,0,28,1395,True,[],"(4, 11)",Graves,Blue,3,False,348.75,Ranked Solo/Duo
+0,0,28,1395,False,[],"(6, 11)",Nasus,Red,3,False,348.75,Ranked Solo/Duo
