@@ -4,9 +4,7 @@ api_key = os.getenv('RIOT_GAMES_API_KEY')
 if api_key is None:
     raise ValueError("No API key found. Please set the API_KEY environment variable.")
 
-SUMMONER_NAMES = ['khaleesiOG#NA1',
-'Juyari#KING',
-'jxff#jmj']  #Up to 4 summoners   NAME#TAG
+SUMMONER_NAMES = []  #Up to 4 summoners   NAME#TAG
 REGION = 'AMERICAS'  
 
 def get_summoner_data(game_name, tag_line):
