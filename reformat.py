@@ -7,7 +7,7 @@ def reformat_csv(input_file, output_file='reformatted_data.csv'):
         reader = csv.DictReader(infile)
         fieldnames = reader.fieldnames
 
-        # Update the fieldnames for the output CSV
+        
         new_fieldnames = []
         for name in fieldnames:
             if name == 'summoner_spells':
@@ -41,5 +41,5 @@ def reformat_csv(input_file, output_file='reformatted_data.csv'):
 
             writer.writerow(new_row)
 
-# Replace 'input.csv' with your actual input file path
+
 reformat_csv('jungler_data.csv')
